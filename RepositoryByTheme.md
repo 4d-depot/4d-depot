@@ -23,6 +23,11 @@ There are several categories of Repository:
 
 ## 4D View Pro
 
+* [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in 4D View Pro
+* [HDI_4DVP_Events](https://github.com/4d-depot/HDI_4DVP_Events) - Manage events in 4D View Pro
+* [HDI_4DVP_Export_PDF](https://github.com/4d-depot/HDI_4DVP_Export_PDF) - Export PDFs or print 4D View Pro documents
+* [HDI_4DVP_Export_SVG](https://github.com/4d-depot/HDI_4DVP_Export_SVG) - Convert 4D View Pro documents to SVG pictures
+* [HDI_4DVP_FreezePanes Private](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in 4D View Pro
 * [HDI_4DVP_Suspend_Resume](https://github.com/4d-depot/HDI_4DVP_Suspend_Resume) - Stop or resume calculations in 4D View Pro
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
 * [HDI_4DVP_SheetOptions](https://github.com/4d-depot/HDI_4DVP_SheetOptions) - Manage sheet options
