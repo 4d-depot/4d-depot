@@ -36,12 +36,17 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## 4D v18 R2
 
+* [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in 4D View Pro
+* [HDI_4DVP_FreezePanes Private](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in 4D View Pro
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
 
 ## 4D v18 LTS
 
+* [HDI_4DVP_Events](https://github.com/4d-depot/HDI_4DVP_Events) - Manage events in 4D View Pro
+* [HDI_4DVP_Export_PDF](https://github.com/4d-depot/HDI_4DVP_Export_PDF) - Export PDFs or print 4D View Pro documents
+* [HDI_4DVP_Export_SVG](https://github.com/4d-depot/HDI_4DVP_Export_SVG) - Convert 4D View Pro documents to SVG pictures
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
