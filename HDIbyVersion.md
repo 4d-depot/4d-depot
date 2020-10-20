@@ -6,10 +6,21 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v18 R5](#4d-v18-r5)
 - [4D v18 R4](#4d-v18-r4)
-- [4D v18 R3](#4D-v18-r3)
+- [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v18 R5
+
+* [HDI_4DVP_allow_formulas](https://github.com/4d-depot/HDI_4DVP_allow_formulas) - Create custom functions in 4D View Pro
+* [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
+* [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
+* [HDI_IMAPMailCopy](https://github.com/4d-depot/HDI_IMAPMailCopy) - Copy/cut/delete emails using IMAP protocol
+* [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
+* [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords 
+* [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
 
 ## 4D v18 R4
 
