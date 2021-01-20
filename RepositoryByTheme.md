@@ -25,9 +25,11 @@ There are several categories of Repository:
 
 * [HDI_4DVP_allow_formulas](https://github.com/4d-depot/HDI_4DVP_allow_formulas) - Create custom functions in 4D View Pro
 * [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in 4D View Pro
+* [HDI_4DVP_End_Loading](https://github.com/4d-depot/HDI_4DVP_End_Loading) - Know when a 4D View Pro document has finished loading
 * [HDI_4DVP_Events](https://github.com/4d-depot/HDI_4DVP_Events) - Manage events in 4D View Pro
 * [HDI_4DVP_Export_PDF](https://github.com/4d-depot/HDI_4DVP_Export_PDF) - Export PDFs or print 4D View Pro documents
 * [HDI_4DVP_Export_SVG](https://github.com/4d-depot/HDI_4DVP_Export_SVG) - Convert 4D View Pro documents to SVG pictures
+* [HDI_4DVP_Find](https://github.com/4d-depot/HDI_4DVP_Find) - Find a value in a 4D View Pro document
 * [HDI_4DVP_FreezePanes Private](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in 4D View Pro
 * [HDI_4DVP_Suspend_Resume](https://github.com/4d-depot/HDI_4DVP_Suspend_Resume) - Stop or resume calculations in 4D View Pro
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
@@ -47,17 +49,19 @@ There are several categories of Repository:
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
 
-
 ## Administration
 
 * [HDI_Monitor_Activity](https://github.com/4d-depot/HDI_Monitor_Activity) - Monitor 4D Server activity
+* [HDI_ScalableSession](https://github.com/4d-depot/HDI_ScalableSession) - Get started with scalable web sessions
 
 ## Email
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
+* [HDI_IMAPAppend](https://github.com/4d-depot/HDI_IMAPAppend) - Save draft emails with IMAP
 * [HDI_IMAPMailCopy](https://github.com/4d-depot/HDI_IMAPMailCopy) - Copy/cut/delete emails using IMAP protocol
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
+* [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
 
 ## Example application
 
@@ -86,6 +90,7 @@ There are several categories of Repository:
 
 ## Transversal features
 
+* [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
