@@ -6,11 +6,21 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v18 R6](#4d-v18-r6)
 - [4D v18 R5](#4d-v18-r5)
 - [4D v18 R4](#4d-v18-r4)
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v18 R6
+
+* [HDI_4DVP_End_Loading](https://github.com/4d-depot/HDI_4DVP_End_Loading) - Know when a 4D View Pro document has finished loading
+* [HDI_4DVP_Find](https://github.com/4d-depot/HDI_4DVP_Find) - Find a value in a 4D View Pro document
+* [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
+* [HDI_IMAPAppend](https://github.com/4d-depot/HDI_IMAPAppend) - Save draft emails with IMAP
+* [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
+* [HDI_ScalableSession](https://github.com/4d-depot/HDI_ScalableSession) - Get started with scalable web sessions
 
 ## 4D v18 R5
 
