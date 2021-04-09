@@ -17,6 +17,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 * [HDI_4DVP_End_Loading](https://github.com/4d-depot/HDI_4DVP_End_Loading) - Know when a 4D View Pro document has finished loading
 * [HDI_4DVP_Find](https://github.com/4d-depot/HDI_4DVP_Find) - Find a value in a 4D View Pro document
+* [4D-View-Pro-Tips](https://github.com/4d-depot/4D-View-Pro-Tips) - Answers to common questions asked on the forum about 4D View Pro 
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_IMAPAppend](https://github.com/4d-depot/HDI_IMAPAppend) - Save draft emails with IMAP
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
