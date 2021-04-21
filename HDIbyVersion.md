@@ -6,12 +6,26 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 LTS](#4d-v19-lts)
 - [4D v18 R6](#4d-v18-r6)
 - [4D v18 R5](#4d-v18-r5)
 - [4D v18 R4](#4d-v18-r4)
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+
+## 4D v19 LTS
+
+* [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
+* [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
+* [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
+* [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
+* [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
+* [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
+* [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
+* [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
+* [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
 
 ## 4D v18 R6
 
