@@ -41,8 +41,11 @@ There are several categories of Repository:
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
+* [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
 * [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
+* [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
+* [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
@@ -58,6 +61,7 @@ There are several categories of Repository:
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_IMAPAppend](https://github.com/4d-depot/HDI_IMAPAppend) - Save draft emails with IMAP
+* [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
 * [HDI_IMAPMailCopy](https://github.com/4d-depot/HDI_IMAPMailCopy) - Copy/cut/delete emails using IMAP protocol
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
@@ -76,6 +80,7 @@ There are several categories of Repository:
 ## Listbox
 
 * [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
+* * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
@@ -90,15 +95,19 @@ There are several categories of Repository:
 
 ## Transversal features
 
+* [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
+* [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+* [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
 
 ## Security
 
+* [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
 
 ## User class
