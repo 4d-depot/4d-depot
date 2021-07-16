@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 R2](#4d-v19-r2)
 - [4D v19 LTS](#4d-v19-lts)
 - [4D v18 R6](#4d-v18-r6)
 - [4D v18 R5](#4d-v18-r5)
@@ -14,6 +15,9 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
 
+## 4D v19 R2
+
+* [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
 
 ## 4D v19 LTS
 
