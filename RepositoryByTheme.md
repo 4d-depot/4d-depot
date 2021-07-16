@@ -42,6 +42,7 @@ There are several categories of Repository:
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
+* [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
 * [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
@@ -80,7 +81,7 @@ There are several categories of Repository:
 ## Listbox
 
 * [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
-* * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
+* [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
