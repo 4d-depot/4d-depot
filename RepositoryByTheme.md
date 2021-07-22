@@ -23,6 +23,7 @@ There are several categories of Repository:
 
 ## 4D View Pro
 
+* [4D-View-Pro-Tips](https://github.com/4d-depot/4D-View-Pro-Tips) - Answers to common questions asked on the forum about 4D View Pro 
 * [HDI_4DVP_allow_formulas](https://github.com/4d-depot/HDI_4DVP_allow_formulas) - Create custom functions in 4D View Pro
 * [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in 4D View Pro
 * [HDI_4DVP_End_Loading](https://github.com/4d-depot/HDI_4DVP_End_Loading) - Know when a 4D View Pro document has finished loading
@@ -52,6 +53,7 @@ There are several categories of Repository:
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
+* [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
 
 ## Administration
 
