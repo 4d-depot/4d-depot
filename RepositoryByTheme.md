@@ -41,12 +41,15 @@ There are several categories of Repository:
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
+* [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
+* [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
+* [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files 
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
 * [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
-* [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
+* [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Hightlight formulas in 4D Write Pro documents
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
@@ -69,6 +72,8 @@ There are several categories of Repository:
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
+* [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+
 
 ## Example application
 
@@ -92,6 +97,7 @@ There are several categories of Repository:
 
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
 * [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to ORDA data model classes
+* [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords 
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
@@ -107,6 +113,7 @@ There are several categories of Repository:
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ## Security
 
@@ -117,3 +124,4 @@ There are several categories of Repository:
 
 * [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
 * [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
+* [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
