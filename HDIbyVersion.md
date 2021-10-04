@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 R3](#4d-v19-r3)
 - [4D v19 R2](#4d-v19-r2)
 - [4D v19 LTS](#4d-v19-lts)
 - [4D v18 R6](#4d-v18-r6)
@@ -14,6 +15,16 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v19 R3
+
+* [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
+* [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files 
+* [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Hightlight formulas in 4D Write Pro documents
+* [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
+* [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+* [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
+* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ## 4D v19 R2
 
