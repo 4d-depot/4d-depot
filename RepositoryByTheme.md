@@ -17,9 +17,11 @@ There are several categories of Repository:
 - [Example application](#example-application)
 - [Listbox](#listbox)
 - [ORDA](#orda)
+- [Tools](#tools)
 - [Transversal features](#transversal-features)
 - [Security](#security)
 - [User class](#user-class)
+- [Web area](#web-area)
 
 ## 4D View Pro
 
@@ -60,6 +62,7 @@ There are several categories of Repository:
 
 ## Administration
 
+* [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
 * [HDI_Monitor_Activity](https://github.com/4d-depot/HDI_Monitor_Activity) - Monitor 4D Server activity
 * [HDI_ScalableSession](https://github.com/4d-depot/HDI_ScalableSession) - Get started with scalable web sessions
 
@@ -95,6 +98,7 @@ There are several categories of Repository:
 
 ## ORDA
 
+* [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
 * [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to ORDA data model classes
 * [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
@@ -102,18 +106,20 @@ There are several categories of Repository:
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
 
+## Tools
+
+* [4DDebugLogAnalyser](https://github.com/4d-depot/4DDebugLogAnalyser) - Tool to analyse debug logs produced by 4D 
+* [Tool_Compilation](https://github.com/4d-depot/Tool_Compilation) - Tool to launch a compilation by command line 
+
 ## Transversal features
 
 * [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
-* [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
-* [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
-* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ## Security
 
@@ -125,3 +131,8 @@ There are several categories of Repository:
 * [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
 * [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
+
+## Web area
+
+* [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
+* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
