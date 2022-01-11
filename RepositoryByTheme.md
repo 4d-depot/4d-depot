@@ -37,6 +37,7 @@ There are several categories of Repository:
 * [HDI_4DVP_Suspend_Resume](https://github.com/4d-depot/HDI_4DVP_Suspend_Resume) - Stop or resume calculations in 4D View Pro
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
 * [HDI_4DVP_SheetOptions](https://github.com/4d-depot/HDI_4DVP_SheetOptions) - Manage sheet options
+* [HDI_4DVP_workbook_options](https://github.com/4d-depot/HDI_4DVP_workbook_options) - Manage my workbook options
 * [Webinar-4D-View-Pro-Dasboards](https://github.com/4d-depot/Webinar-4D-View-Pro-Dasboards) - Build a dashboard with 4D View Pro
 
 ## 4D Write Pro
@@ -54,6 +55,7 @@ There are several categories of Repository:
 * [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Hightlight formulas in 4D Write Pro documents
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
+* [HDI_4DWP_PageBreaksInTableRows](https://github.com/4d-depot/HDI_4DWP_PageBreaksInTableRows) - Allow automatic page breaks inside rows of 4D Write Pro tables
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
@@ -65,6 +67,7 @@ There are several categories of Repository:
 * [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
 * [HDI_Monitor_Activity](https://github.com/4d-depot/HDI_Monitor_Activity) - Monitor 4D Server activity
 * [HDI_ScalableSession](https://github.com/4d-depot/HDI_ScalableSession) - Get started with scalable web sessions
+* [HDI_Systemworker](https://github.com/4d-depot/HDI_Systemworker) - Use systemWorkers to start many processes at the same time asynchronously
 
 ## Email
 
@@ -98,6 +101,7 @@ There are several categories of Repository:
 
 ## ORDA
 
+* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
 * [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
 * [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to ORDA data model classes
@@ -128,6 +132,7 @@ There are several categories of Repository:
 
 ## User class
 
+* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
 * [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
 * [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
