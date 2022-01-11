@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 R4](#4d-v19-r4)
 - [4D v19 R3](#4d-v19-r3)
 - [4D v19 R2](#4d-v19-r2)
 - [4D v19 LTS](#4d-v19-lts)
@@ -15,6 +16,14 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v19 R4
+
+* [HDI_4DVP_workbook_options](https://github.com/4d-depot/HDI_4DVP_workbook_options) - Manage my workbook options
+* [HDI_4DWP_PageBreaksInTableRows](https://github.com/4d-depot/HDI_4DWP_PageBreaksInTableRows) - Allow automatic page breaks inside rows of 4D Write Pro tables
+* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
+* [HDI_Systemworker](https://github.com/4d-depot/HDI_Systemworker) - Use systemWorkers to start many processes at the same time asynchronously
+
 
 ## 4D v19 R3
 
