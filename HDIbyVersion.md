@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 R5](#4d-v19-r5)
 - [4D v19 R4](#4d-v19-r4)
 - [4D v19 R3](#4d-v19-r3)
 - [4D v19 R2](#4d-v19-r2)
@@ -16,6 +17,16 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v19 R5
+
+* [HDI_4DVP_DataContext](https://github.com/4d-depot/HDI_4DVP_DataContext) - Populate a sheet with a data context
+* [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
+* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents 
+* [HDI_4DWP_RepeatedHeaders](https://github.com/4d-depot/HDI_4DWP_RepeatedHeaders) - Define headers in 4D Write Pro tables
+* [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
+* [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
+* [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
 
 ## 4D v19 R4
 
