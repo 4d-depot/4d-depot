@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 R6](#4d-v19-r6)
 - [4D v19 R5](#4d-v19-r5)
 - [4D v19 R4](#4d-v19-r4)
 - [4D v19 R3](#4d-v19-r3)
@@ -17,6 +18,16 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v19 R6
+
+* [HDI_4DVP_CreateTables](https://github.com/4d-depot/HDI_4DVP_CreateTables) - Display a collection as a table
+* [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
+* [HDI_4DWP_ORDA_Tables](https://github.com/4d-depot/HDI_4DWP_ORDA_Tables) - Use entity selections and collections to fill tables in 4D Write Pro documents
+* [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
+* [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
+* [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
+* [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
 
 ## 4D v19 R5
 
