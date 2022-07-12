@@ -29,6 +29,7 @@ There are several categories of Repository:
 * [4D-View-Pro-Tips](https://github.com/4d-depot/4D-View-Pro-Tips) - Answers to common questions asked on the forum about 4D View Pro 
 * [HDI_4DVP_allow_formulas](https://github.com/4d-depot/HDI_4DVP_allow_formulas) - Create custom functions in 4D View Pro
 * [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in 4D View Pro
+* [HDI_4DVP_CreateTables](https://github.com/4d-depot/HDI_4DVP_CreateTables) - Display a collection as a table
 * [HDI_4DVP_DataContext](https://github.com/4d-depot/HDI_4DVP_DataContext) - Populate a sheet with a data context
 * [HDI_4DVP_End_Loading](https://github.com/4d-depot/HDI_4DVP_End_Loading) - Know when a 4D View Pro document has finished loading
 * [HDI_4DVP_Events](https://github.com/4d-depot/HDI_4DVP_Events) - Manage events in 4D View Pro
@@ -54,6 +55,7 @@ There are several categories of Repository:
 * [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
+* [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
 * [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Hightlight formulas in 4D Write Pro documents
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
@@ -62,6 +64,7 @@ There are several categories of Repository:
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
 * [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents 
+* [HDI_4DWP_ORDA_Tables](https://github.com/4d-depot/HDI_4DWP_ORDA_Tables) - Use entity selections and collections to fill tables in 4D Write Pro documents
 * [HDI_4DWP_RepeatedHeaders](https://github.com/4d-depot/HDI_4DWP_RepeatedHeaders) - Define headers in 4D Write Pro tables
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
@@ -84,6 +87,7 @@ There are several categories of Repository:
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+* [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
 
 ## Example application
 
@@ -112,6 +116,7 @@ There are several categories of Repository:
 * [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
 * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
+* [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
 
@@ -135,6 +140,7 @@ There are several categories of Repository:
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
+* [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 
 ## Tools
 
@@ -155,6 +161,7 @@ There are several categories of Repository:
 
 ## Web
 
+* [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
