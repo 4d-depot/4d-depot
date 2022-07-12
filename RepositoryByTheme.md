@@ -113,12 +113,18 @@ There are several categories of Repository:
 
 ## Listbox
 
+* [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
 * [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
+* [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
+* [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
 * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
+* [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
+* [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
+
 
 ## ORDA
 
