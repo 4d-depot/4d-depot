@@ -69,7 +69,10 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
+* [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
 * [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
+* [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
+* [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
 * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
 
