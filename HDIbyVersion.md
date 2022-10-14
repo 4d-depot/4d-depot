@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v19 R7](#4d-v19-r7)
 - [4D v19 R6](#4d-v19-r6)
 - [4D v19 R5](#4d-v19-r5)
 - [4D v19 R4](#4d-v19-r4)
@@ -18,6 +19,17 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v19 R7
+
+* [HDI_4DVP_TablesManagement](https://github.com/4d-depot/HDI_4DVP_TablesManagement) - Columns management in a 4D View Pro table 
+* [HDI_4DWP_CarryOverRows](https://github.com/4d-depot/HDI_4DWP_CarryOverRows) - Use a carry-over row in huge tables automatically filled by entity selections or collection
+* [HDI_4DWP_DisplayFormulas](https://github.com/4d-depot/HDI_4DWP_DisplayFormulas) - Display Formulas as F
+* [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
+* [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
+* [HDI_LB_DragAndDrop](https://github.com/4d-depot/HDI_LB_DragAndDrop) - Drag and drop without "alt" key
+* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
+* [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
 
 ## 4D v19 R6
 
