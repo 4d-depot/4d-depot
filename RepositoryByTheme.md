@@ -40,6 +40,7 @@ There are several categories of Repository:
 * [HDI_4DVP_Suspend_Resume](https://github.com/4d-depot/HDI_4DVP_Suspend_Resume) - Stop or resume calculations in 4D View Pro
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
 * [HDI_4DVP_SheetOptions](https://github.com/4d-depot/HDI_4DVP_SheetOptions) - Manage sheet options
+* [HDI_4DVP_TablesManagement](https://github.com/4d-depot/HDI_4DVP_TablesManagement) - Columns management in a 4D View Pro table 
 * [HDI_4DVP_workbook_options](https://github.com/4d-depot/HDI_4DVP_workbook_options) - Manage my workbook options
 * [Webinar-4D-View-Pro-Dasboards](https://github.com/4d-depot/Webinar-4D-View-Pro-Dasboards) - Build a dashboard with 4D View Pro
 
@@ -47,8 +48,10 @@ There are several categories of Repository:
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
+* [HDI_4DWP_CarryOverRows](https://github.com/4d-depot/HDI_4DWP_CarryOverRows) - Use a carry-over row in huge tables automatically filled by entity selections or collection
 * [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
+* [HDI_4DWP_DisplayFormulas](https://github.com/4d-depot/HDI_4DWP_DisplayFormulas) - Display Formulas as F
 * [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
 * [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files 
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
@@ -60,6 +63,7 @@ There are several categories of Repository:
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
+* [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
 * [HDI_4DWP_PageBreaksInTableRows](https://github.com/4d-depot/HDI_4DWP_PageBreaksInTableRows) - Allow automatic page breaks inside rows of 4D Write Pro tables
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
@@ -103,27 +107,30 @@ There are several categories of Repository:
 
 * [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
+* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
 * [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
 * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
+* [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
 
 ## Listbox
 
 * [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
-* [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
+* [HDI_LB_DragAndDrop](https://github.com/4d-depot/HDI_LB_DragAndDrop) - Drag and drop without "alt" key
 * [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
 * [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
+* [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
 * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
-* [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
-* [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
+* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
+
 
 
 ## ORDA
@@ -146,6 +153,7 @@ There are several categories of Repository:
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
+* [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 
 ## Tools
