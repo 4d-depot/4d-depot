@@ -158,8 +158,9 @@ There are several categories of Repository:
 
 ## Tools
 
-* [4DDebugLogAnalyser](https://github.com/4d-depot/4DDebugLogAnalyser) - Tool to analyse debug logs produced by 4D 
-* [Tool_Compilation](https://github.com/4d-depot/Tool_Compilation) - Tool to launch a compilation by command line 
+* [4DDebugLogAnalyser](https://github.com/4d-depot/4DDebugLogAnalyser) - Tool to analyse debug logs produced by 4D
+* [Build4D](https://github.com/4d-depot/Build4D) - Tool to compile, build, and sign your 4D project
+* [Tool_Compilation](https://github.com/4d-depot/Tool_Compilation) - Tool to launch a compilation by command line
 
 ## Security
 
