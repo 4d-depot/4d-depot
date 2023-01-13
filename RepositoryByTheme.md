@@ -41,6 +41,7 @@ There are several categories of Repository:
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
 * [HDI_4DVP_SheetOptions](https://github.com/4d-depot/HDI_4DVP_SheetOptions) - Manage sheet options
 * [HDI_4DVP_TablesManagement](https://github.com/4d-depot/HDI_4DVP_TablesManagement) - Columns management in a 4D View Pro table 
+* [HDI_4DVP_tableStyle](https://github.com/4d-depot/HDI_4DVP_tableStyle) - Manage manage themes in a 4D View Pro table
 * [HDI_4DVP_workbook_options](https://github.com/4d-depot/HDI_4DVP_workbook_options) - Manage my workbook options
 * [Webinar-4D-View-Pro-Dasboards](https://github.com/4d-depot/Webinar-4D-View-Pro-Dasboards) - Build a dashboard with 4D View Pro
 
@@ -73,6 +74,7 @@ There are several categories of Repository:
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
+* [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
 
 ## Administration
 
@@ -91,6 +93,8 @@ There are several categories of Repository:
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+* [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
+* [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
 * [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
 
 ## Example application
@@ -166,6 +170,7 @@ There are several categories of Repository:
 
 * [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
+* [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 
 ## User class
 
