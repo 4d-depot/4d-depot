@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v20 LTS](#4d-v20-lts)
 - [4D v19 R8](#4d-v19-r8)
 - [4D v19 R7](#4d-v19-r7)
 - [4D v19 R6](#4d-v19-r6)
@@ -20,6 +21,15 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v20 LTS
+
+* [HDI_4DWP_ORDA_Breaks](https://github.com/4d-depot/HDI_4DWP_ORDA_Breaks) - Use break rows in 4D Write Pro tables
+* [HDI_4DWP_UseTextBoxes_V2](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes_V2) - Import and Export text boxes
+* [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
+* [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
+* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mails through the Microsoft GRAPH API
+* [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server 
 
 ## 4D v19 R8
 
