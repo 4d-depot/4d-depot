@@ -51,6 +51,7 @@ There are several categories of Repository:
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
 * [HDI_4DWP_CarryOverRows](https://github.com/4d-depot/HDI_4DWP_CarryOverRows) - Use a carry-over row in huge tables automatically filled by entity selections or collection
+* [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in 4D Write Pro documents
 * [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
 * [HDI_4DWP_DisplayFormulas](https://github.com/4d-depot/HDI_4DWP_DisplayFormulas) - Display Formulas as F
@@ -195,4 +196,5 @@ There are several categories of Repository:
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
+* [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server 
