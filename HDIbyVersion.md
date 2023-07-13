@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v20 R2](#4d-v20-r2)
 - [4D v20 LTS](#4d-v20-lts)
 - [4D v19 R8](#4d-v19-r8)
 - [4D v19 R7](#4d-v19-r7)
@@ -21,6 +22,11 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v20 R2
+
+* [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in 4D Write Pro documents
+* [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 
 ## 4D v20 LTS
 
