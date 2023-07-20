@@ -26,6 +26,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 ## 4D v20 R2
 
 * [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in 4D Write Pro documents
+* [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 
 ## 4D v20 LTS
