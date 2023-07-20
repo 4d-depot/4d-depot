@@ -168,6 +168,7 @@ There are several categories of Repository:
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
 * [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
+* [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
 ## Tools
 
