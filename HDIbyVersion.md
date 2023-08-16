@@ -29,7 +29,8 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 * [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
-* [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
+* [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server
+* [HDI_WPTableWizard](https://github.com/4d-depot/HDI_WPTableWizard) - Use the 4D Write Pro table wizard
 
 ## 4D v20 LTS
 
