@@ -79,6 +79,7 @@ There are several categories of Repository:
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
 * [HDI_4DWP_UseTextBoxes_V2](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes_V2) - Import and Export text boxes
+* [HDI_WPTableWizard](https://github.com/4d-depot/HDI_WPTableWizard) - Use the 4D Write Pro table wizard
 
 ## Administration
 
