@@ -55,12 +55,14 @@ There are several categories of Repository:
 * [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
 * [HDI_4DWP_DisplayFormulas](https://github.com/4d-depot/HDI_4DWP_DisplayFormulas) - Display Formulas as F
+* [HDI_4DWP_ExportAsPDFA](https://github.com/4d-depot/HDI_4DWP_ExportAsPDFA/) - Export documents as PDF/A
 * [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
 * [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files 
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
 * [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
+* [HDI_4DWP_GiveNameToFormulas](https://github.com/4d-depot/HDI_4DWP_GiveNameToFormulas/) - Assign formulas a name to make them easier to read
 * [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
 * [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Hightlight formulas in 4D Write Pro documents
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
@@ -92,6 +94,7 @@ There are several categories of Repository:
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
+* [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_IMAPAppend](https://github.com/4d-depot/HDI_IMAPAppend) - Save draft emails with IMAP
 * [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
@@ -166,9 +169,11 @@ There are several categories of Repository:
 
 * [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
 * [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
+* [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
+* [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
 * [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
