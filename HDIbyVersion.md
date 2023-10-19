@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v20 R3](#4d-v20-r3)
 - [4D v20 R2](#4d-v20-r2)
 - [4D v20 LTS](#4d-v20-lts)
 - [4D v19 R8](#4d-v19-r8)
@@ -22,6 +23,14 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D v20 R3
+
+* [HDI_4DWP_ExportAsPDFA](https://github.com/4d-depot/HDI_4DWP_ExportAsPDFA/) - Export documents as PDF/A
+* [HDI_4DWP_GiveNameToFormulas](https://github.com/4d-depot/HDI_4DWP_GiveNameToFormulas/) - Assign formulas a name to make them easier to read
+* [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
+* [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
+* [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
 
 ## 4D v20 R2
 
