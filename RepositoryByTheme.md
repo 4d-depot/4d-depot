@@ -210,4 +210,4 @@ There are several categories of Repository:
 
 ## Qodly studio for 4D
 
-* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable)) - How to build a matrix and a datatable 
+* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
