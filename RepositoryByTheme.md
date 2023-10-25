@@ -211,3 +211,6 @@ There are several categories of Repository:
 ## Qodly studio for 4D
 
 * [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
+* [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
+* [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
+* [Play In Qodly Studio: shopping cart](https://github.com/4d-depot/PIQS_ShoppingCart) - How to handle a shopping cart
