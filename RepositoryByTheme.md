@@ -206,4 +206,8 @@ There are several categories of Repository:
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
-* [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server 
+* [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
+## Qodly studio for 4D
+
+* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable)) - How to build a matrix and a datatable 
