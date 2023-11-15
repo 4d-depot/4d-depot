@@ -20,11 +20,11 @@ There are several categories of Repository:
 - [Mobile](#mobile)
 - [ORDA](#orda)
 - [Programming features](#programming-features)
+- [Qodly studio](#qodly-studio-for-4d)
 - [Tools](#tools)
 - [Security](#security)
 - [User class](#user-class)
 - [Web](#web)
-- [Qodly studio](#qodly-studio-for-4d)
 
 ## 4D View Pro
 
@@ -179,6 +179,14 @@ There are several categories of Repository:
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
+## Qodly studio for 4D
+
+* [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
+* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
+* [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
+* [Play In Qodly Studio: shopping cart](https://github.com/4d-depot/PIQS_ShoppingCart) - How to handle a shopping cart
+
 ## Tools
 
 * [AdministrationOnline](https://github.com/4d-depot/AdministrationOnline) - Integrate your Own Administration Window for 4D Server
@@ -209,9 +217,3 @@ There are several categories of Repository:
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
 
-## Qodly studio for 4D
-
-* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
-* [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
-* [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
-* [Play In Qodly Studio: shopping cart](https://github.com/4d-depot/PIQS_ShoppingCart) - How to handle a shopping cart
