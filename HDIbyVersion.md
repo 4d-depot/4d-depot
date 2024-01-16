@@ -6,7 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
-- [4D v20 R3](#4d-v20-r4)
+- [4D v20 R4](#4d-v20-r4)
 - [4D v20 R3](#4d-v20-r3)
 - [4D v20 R2](#4d-v20-r2)
 - [4D v20 LTS](#4d-v20-lts)
