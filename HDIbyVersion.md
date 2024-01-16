@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 
 ## Table of Contents
 
+- [4D v20 R3](#4d-v20-r4)
 - [4D v20 R3](#4d-v20-r3)
 - [4D v20 R2](#4d-v20-r2)
 - [4D v20 LTS](#4d-v20-lts)
@@ -24,6 +25,12 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
 
+## 4D v20 R4
+
+* [HDI_4DWP_GenerateFacturX](https://github.com/4d-depot/HDI_4DWP_GenerateFacturX) - Generate a factur-x/ZUGFeRD document
+* [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
+* [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Using NetKit to manage emails from Gmail
+
 ## 4D v20 R3
 
 * [HDI_4DWP_ExportAsPDFA](https://github.com/4d-depot/HDI_4DWP_ExportAsPDFA/) - Export documents as PDF/A
@@ -31,6 +38,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 * [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
 * [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
+* [HDI_Path_For_Picture](https://github.com/4d-depot/HDI_Path_For_Picture) - Assigning a path to a picture or a blob field in ORDA
 
 ## 4D v20 R2
 
