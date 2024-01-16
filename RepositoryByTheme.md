@@ -61,6 +61,7 @@ There are several categories of Repository:
 * [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files 
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
 * [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
+* [HDI_4DWP_GenerateFacturX](https://github.com/4d-depot/HDI_4DWP_GenerateFacturX) - Generate a factur-x/ZUGFeRD document
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
 * [HDI_4DWP_GiveNameToFormulas](https://github.com/4d-depot/HDI_4DWP_GiveNameToFormulas/) - Assign formulas a name to make them easier to read
@@ -101,6 +102,8 @@ There are several categories of Repository:
 * [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
 * [HDI_IMAPMailCopy](https://github.com/4d-depot/HDI_IMAPMailCopy) - Copy/cut/delete emails using IMAP protocol
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
+* [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
+* [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
