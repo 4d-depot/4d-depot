@@ -133,6 +133,7 @@ There are several categories of Repository:
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
+* [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
@@ -180,6 +181,7 @@ There are several categories of Repository:
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
 * [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
+* [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
 ## Qodly studio for 4D
