@@ -30,6 +30,7 @@ How Do I (HDI) examples explain and show new functionalities added in 4D. Here i
 * [HDI_4DWP_GenerateFacturX](https://github.com/4d-depot/HDI_4DWP_GenerateFacturX) - Generate a factur-x/ZUGFeRD document
 * [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Using NetKit to manage emails from Gmail
+* [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 
 ## 4D v20 R3
 
