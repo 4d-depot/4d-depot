@@ -6,6 +6,7 @@ The list of 4D Depot repositories sorted by theme.
 There are several categories of Repository:
 * Example Application (EA) - Full example application
 * How Do I demonstration (HDI) - Simple demonstration of a new feature
+* Play in Qodly Studio (PIQS) - Simple demonstration of a new feature in Qodly Studio for 4D
 * Webinar example (Webinar)- Example used in a webinar. The videos are available on the [Webinar playlist](https://www.youtube.com/playlist?list=PL2PF2oGPokRdQLsqpIU6sHmbSSOX4xOvl) on the [4D Software YouTube channel](https://www.youtube.com/c/4dsoftware).
 
 ## Table of Contents
