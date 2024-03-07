@@ -11,6 +11,7 @@ There are several categories of Repository:
 
 ## Table of Contents
 
+- [4D NetKit](#4d-netkit)
 - [4D View Pro](#4d-view-pro)
 - [4D Write Pro](#4d-write-pro)
 - [Administration](#administration)
@@ -26,6 +27,21 @@ There are several categories of Repository:
 - [Security](#security)
 - [User class](#user-class)
 - [Web](#web)
+
+## 4D NetKit
+
+[4D NetKit](https://github.com/4d/4D-NetKit/) is a built-in 4D component that allows you to interact with third-party web services and their APIs, such as Microsoft Graph, Google REST API.
+
+* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
+* [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
+* [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
+* [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
+* [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
+* [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+* [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
+* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mails through the Microsoft GRAPH API
+* [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
+* [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
 
 ## 4D View Pro
 
