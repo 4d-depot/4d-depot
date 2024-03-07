@@ -4,10 +4,10 @@
 The list of 4D Depot repositories sorted by theme.
 
 There are several categories of Repository:
-* Example Application (EA) - Full example application
-* How Do I demonstration (HDI) - Simple demonstration of a new feature
-* Play in Qodly Studio (PIQS) - Simple demonstration of a new feature in Qodly Studio for 4D
-* Webinar example (Webinar)- Example used in a webinar. The videos are available on the [Webinar playlist](https://www.youtube.com/playlist?list=PL2PF2oGPokRdQLsqpIU6sHmbSSOX4xOvl) on the [4D Software YouTube channel](https://www.youtube.com/c/4dsoftware).
+* Example Application (EA) - Full example [4D](https://4d.com) application
+* How Do I demonstration (HDI) - Simple demonstration of a new [4D](https://4d.com) feature
+* Play in Qodly Studio (PIQS) - Simple demonstration of a new feature in Qodly Studio for [4D](https://4d.com)
+* Webinar example (Webinar)- [4D](https://4d.com) example used in a webinar. The videos are available on the [Webinar playlist](https://www.youtube.com/playlist?list=PL2PF2oGPokRdQLsqpIU6sHmbSSOX4xOvl) on the [4D Software YouTube channel](https://www.youtube.com/c/4dsoftware).
 
 ## Table of Contents
 
@@ -29,6 +29,8 @@ There are several categories of Repository:
 
 ## 4D View Pro
 
+[4D View Pro](https://us.4d.com/4d-view-pro) is a 4D component that includes a 4D form area and specific methods. It allows you to embed advanced spreadsheet features in your projects.
+
 * [4D-View-Pro-Tips](https://github.com/4d-depot/4D-View-Pro-Tips) - Answers to common questions asked on the forum about 4D View Pro 
 * [HDI_4DVP_allow_formulas](https://github.com/4d-depot/HDI_4DVP_allow_formulas) - Create custom functions in 4D View Pro
 * [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in 4D View Pro
@@ -49,6 +51,8 @@ There are several categories of Repository:
 * [Webinar-4D-View-Pro-Dasboards](https://github.com/4d-depot/Webinar-4D-View-Pro-Dasboards) - Build a dashboard with 4D View Pro
 
 ## 4D Write Pro
+
+[4D Write Pro](https://us.4d.com/4D-write-pro) is a powerful template-based document generator system entirely programmable and fully integrated into 4D.
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
@@ -158,6 +162,8 @@ There are several categories of Repository:
 * [HDI_CartExample](https://github.com/4d-depot/HDI_CartExample) - Place Orders with 4D for Android and 4D for iOS
 
 ## ORDA
+
+[ORDA](https://us.4d.com/orda), which stands for Object Relational Data Access, is an innovative way of accessing data that combines the advantages of object-oriented programming with those of relational databases.
 
 * [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [Demo_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/Demo_ORDA_ContextAndRequestsOptimization) - Optimization and cache demo
