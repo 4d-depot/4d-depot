@@ -2,7 +2,7 @@
 
 # HDIs by 4D version
 
-How Do I (HDI) examples explain and show new functionalities added in 4D. Here is a list of HDIs, grouped according to 4D version.
+How Do I (HDI) examples explain and show new functionalities added in [4D](https://4d.com). Here is a list of HDIs, grouped according to [4D](https://4d.com) version.
 
 ## Table of Contents
 
