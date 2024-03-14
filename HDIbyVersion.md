@@ -39,7 +39,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
 * [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
-* [HDI_Path_For_Picture](https://github.com/4d-depot/HDI_Path_For_Picture) - Assigning a path to a picture or a blob field in ORDA
+* [HDI_Path_For_Picture](https://github.com/4d-depot/HDI_Path_For_Picture) - Assigning a path to a picture or a blob field in [ORDA](https://us.4d.com/orda)
 
 ## 4D v20 R2
 
@@ -97,7 +97,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 * [HDI_4DVP_DataContext](https://github.com/4d-depot/HDI_4DVP_DataContext) - Populate a sheet with a data context in [4D View Pro](https://us.4d.com/4d-view-pro)
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
-* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside [4D Write Pro](https://us.4d.com/4D-write-pro) documents 
+* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage [ORDA](https://us.4d.com/orda) data inside [4D Write Pro](https://us.4d.com/4D-write-pro) documents 
 * [HDI_4DWP_RepeatedHeaders](https://github.com/4d-depot/HDI_4DWP_RepeatedHeaders) - Define headers in [4D Write Pro](https://us.4d.com/4D-write-pro) tables
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
@@ -118,7 +118,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Highlight formulas in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
-* [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
+* [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within [ORDA](https://us.4d.com/orda) dataclasses
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ## 4D v19 R2
@@ -170,8 +170,8 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
-* [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
-* [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to ORDA data model classes
+* [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with [ORDA](https://us.4d.com/orda) Data Model Classes
+* [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to [ORDA](https://us.4d.com/orda) data model classes
 
 ## 4D v18 R3
 
@@ -201,5 +201,5 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a [4D Write Pro](https://us.4d.com/4D-write-pro) table
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a [4D Write Pro](https://us.4d.com/4D-write-pro) document
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
-* [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
+* [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an [ORDA](https://us.4d.com/orda) remote datastore
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
