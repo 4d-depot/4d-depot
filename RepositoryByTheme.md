@@ -14,8 +14,15 @@ There are several categories of Repository:
 - [4D NetKit](#4d-netkit)
 - [4D View Pro](#4d-view-pro)
 - [4D Write Pro](#4d-write-pro)
+  - [Formula](#formula)
+  - [Import Export](import-export)
+  - [Picture](#picture)
+  - [Table](#table)
 - [Administration](#administration)
 - [Email](#email)
+  - [IMAP](#imap)
+  - [Gmail API](#gmail-api)
+  - [Microsoft GRAPH API](#microsoft-graph-api)
 - [Example application](#example-application)
 - [Form](#form)
   - [Form object](#form-object)
@@ -73,38 +80,50 @@ There are several categories of Repository:
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
-* [HDI_4DWP_CarryOverRows](https://github.com/4d-depot/HDI_4DWP_CarryOverRows) - Use a carry-over row in huge tables automatically filled by entity selections or collection
-* [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in 4D Write Pro documents
 * [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
-* [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
-* [HDI_4DWP_DisplayFormulas](https://github.com/4d-depot/HDI_4DWP_DisplayFormulas) - Display Formulas as F
-* [HDI_4DWP_ExportAsPDFA](https://github.com/4d-depot/HDI_4DWP_ExportAsPDFA/) - Export documents as PDF/A
-* [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
-* [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files 
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
-* [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
-* [HDI_4DWP_GenerateFacturX](https://github.com/4d-depot/HDI_4DWP_GenerateFacturX) - Generate a factur-x/ZUGFeRD document
-* [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
-* [HDI_4DWP_GiveNameToFormulas](https://github.com/4d-depot/HDI_4DWP_GiveNameToFormulas/) - Assign formulas a name to make them easier to read
-* [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
-* [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Hightlight formulas in 4D Write Pro documents
-* [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
-* [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
 * [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
-* [HDI_4DWP_PageBreaksInTableRows](https://github.com/4d-depot/HDI_4DWP_PageBreaksInTableRows) - Allow automatic page breaks inside rows of 4D Write Pro tables
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
-* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents 
-* [HDI_4DWP_ORDA_Breaks](https://github.com/4d-depot/HDI_4DWP_ORDA_Breaks) - Use break rows in 4D Write Pro tables
-* [HDI_4DWP_ORDA_Tables](https://github.com/4d-depot/HDI_4DWP_ORDA_Tables) - Use entity selections and collections to fill tables in 4D Write Pro documents
-* [HDI_4DWP_RepeatedHeaders](https://github.com/4d-depot/HDI_4DWP_RepeatedHeaders) - Define headers in 4D Write Pro tables
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
+
+### Formula
+
+* [HDI_4DWP_DisplayFormulas](https://github.com/4d-depot/HDI_4DWP_DisplayFormulas) - Display Formulas as F 
+* [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my 4D Write Pro documents
+* [HDI_4DWP_GiveNameToFormulas](https://github.com/4d-depot/HDI_4DWP_GiveNameToFormulas/) - Assign formulas a name to make them easier to read
+* [HDI_4DWP_HightlightFormulas](https://github.com/4d-depot/HDI_4DWP_HightlightFormulas) - Highlight formulas in 4D Write Pro documents
+* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents 
+
+### Import Export
+
+* [HDI_4DWP_ExportAsPDFA](https://github.com/4d-depot/HDI_4DWP_ExportAsPDFA/) - Export documents as PDF/A
+* [HDI_4DWP_ExportPDF](https://github.com/4d-depot/HDI_4DWP_ExportPDF) - Export 4D Write pro documents as PDF
+* [HDI_4DWP_ExportSVG](https://github.com/4d-depot/HDI_4DWP_ExportSVG) - Export my 4D Write Pro documents as .svg files
+* [HDI_4DWP_GenerateFacturX](https://github.com/4d-depot/HDI_4DWP_GenerateFacturX) - Generate a factur-x/ZUGFeRD document
+* [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_UseTextBoxes_V2](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes_V2) - Import and Export text boxes
+
+### Picture
+
+* [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
+* [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
+* [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
+
+### Table
+
+* [HDI_4DWP_CarryOverRows](https://github.com/4d-depot/HDI_4DWP_CarryOverRows) - Use a carry-over row in huge tables automatically filled by entity selections or collection
+* [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in 4D Write Pro documents
+* [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
+* [HDI_4DWP_PageBreaksInTableRows](https://github.com/4d-depot/HDI_4DWP_PageBreaksInTableRows) - Allow automatic page breaks inside rows of 4D Write Pro tables
+* [HDI_4DWP_ORDA_Breaks](https://github.com/4d-depot/HDI_4DWP_ORDA_Breaks) - Use break rows in 4D Write Pro tables
+* [HDI_4DWP_ORDA_Tables](https://github.com/4d-depot/HDI_4DWP_ORDA_Tables) - Use entity selections and collections to fill tables in 4D Write Pro documents
+* [HDI_4DWP_RepeatedHeaders](https://github.com/4d-depot/HDI_4DWP_RepeatedHeaders) - Define headers in 4D Write Pro tables
 * [HDI_WPTableWizard](https://github.com/4d-depot/HDI_WPTableWizard) - Use the 4D Write Pro table wizard
 
 ## Administration
