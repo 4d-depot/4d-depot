@@ -118,17 +118,26 @@ There are several categories of Repository:
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
-* [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
-* [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
+* [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
+* [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+
+### IMAP
+
 * [HDI_IMAPAppend](https://github.com/4d-depot/HDI_IMAPAppend) - Save draft emails with IMAP
 * [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
 * [HDI_IMAPMailCopy](https://github.com/4d-depot/HDI_IMAPMailCopy) - Copy/cut/delete emails using IMAP protocol
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
+* [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
+
+### Gmail API
+
+* [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
+* [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
-* [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
-* [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
-* [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
+
+### Microsoft GRAPH API
+
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
