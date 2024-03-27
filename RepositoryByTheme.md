@@ -18,7 +18,8 @@ There are several categories of Repository:
 - [Email](#email)
 - [Example application](#example-application)
 - [Form](#form)
-- [Listbox](#listbox)
+  - [Form object](#form-object)
+  - [Listbox](#listbox)
 - [Mobile](#mobile)
 - [ORDA](#orda)
 - [Programming features](#programming-features)
@@ -146,21 +147,19 @@ There are several categories of Repository:
 ## Form
 
 * [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
+* [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
+* [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+
+### Form object
+
 * [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
 * [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
-* [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
-* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
-* [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
-* [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
-* [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
-* [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
-* [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
-* [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
-## Listbox
+### Listbox
 
 * [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
 * [HDI_LB_DragAndDrop](https://github.com/4d-depot/HDI_LB_DragAndDrop) - Drag and drop without "alt" key
