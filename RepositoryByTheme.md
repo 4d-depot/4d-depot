@@ -237,6 +237,8 @@ There are several categories of Repository:
 
 ## Qodly studio for 4D
 
+[Qodly Studio](https://developer.4d.com/docs/WebServer/qodly-studio/) is part of the Qodly platform, dedicated to the development of web business applications designed, tested and published entirely in the Qodly Cloud.
+
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
 * [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
 * [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
