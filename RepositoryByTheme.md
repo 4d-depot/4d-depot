@@ -67,6 +67,7 @@ There are several categories of Repository:
 * [HDI_4DVP_Find](https://github.com/4d-depot/HDI_4DVP_Find) - Find a value in a 4D View Pro document
 * [HDI_4DVP_FreezePanes Private](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in 4D View Pro
 * [HDI_4DVP_Suspend_Resume](https://github.com/4d-depot/HDI_4DVP_Suspend_Resume) - Stop or resume calculations in 4D View Pro
+* [HDI_4DVP_Object_and_Collection_in_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_Object_and_Collection_in_Custom_Functions) - Use custom functions with collection or object parameters in 4D View Pro documents 
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
 * [HDI_4DVP_SheetOptions](https://github.com/4d-depot/HDI_4DVP_SheetOptions) - Manage sheet options
 * [HDI_4DVP_TablesManagement](https://github.com/4d-depot/HDI_4DVP_TablesManagement) - Columns management in a 4D View Pro table 
@@ -85,6 +86,7 @@ There are several categories of Repository:
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
 * [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
+* [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in 4D Write Pro documents
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
 * [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
@@ -113,12 +115,14 @@ There are several categories of Repository:
 
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
 * [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
+* [HDI_4DWP_ManageAnchoredPictures](https://github.com/4d-depot/HDI_4DWP_ManageAnchoredPictures) - Manage text wrapping around pictures and text boxes in 4D Write Pro documents
 * [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
 
 ### Table
 
 * [HDI_4DWP_CarryOverRows](https://github.com/4d-depot/HDI_4DWP_CarryOverRows) - Use a carry-over row in huge tables automatically filled by entity selections or collection
 * [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in 4D Write Pro documents
+* [HDI_4DWP_LargeTables](https://github.com/4d-depot/HDI_4DWP_LargeTables) - Use huge 4D Write Pro tables
 * [HDI_4DWP_ManageTable](https://github.com/4d-depot/HDI_4DWP_ManageTable) - Insert or delete rows and columns or know what is selected in a table
 * [HDI_4DWP_PageBreaksInTableRows](https://github.com/4d-depot/HDI_4DWP_PageBreaksInTableRows) - Allow automatic page breaks inside rows of 4D Write Pro tables
 * [HDI_4DWP_ORDA_Breaks](https://github.com/4d-depot/HDI_4DWP_ORDA_Breaks) - Use break rows in 4D Write Pro tables
@@ -177,6 +181,7 @@ There are several categories of Repository:
 * [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+* [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 
 ### Form object
 
@@ -219,6 +224,7 @@ There are several categories of Repository:
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords 
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
+* [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
 
 ## Programming features
