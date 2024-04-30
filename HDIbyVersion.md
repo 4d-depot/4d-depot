@@ -35,6 +35,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
+* [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
 
 ## 4D v20 R4
 
