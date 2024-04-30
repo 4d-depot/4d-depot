@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 20 R5](#4d-20-r5)
 - [4D v20 R4](#4d-v20-r4)
 - [4D v20 R3](#4d-v20-r3)
 - [4D v20 R2](#4d-v20-r2)
@@ -24,6 +25,16 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D 20 R5
+
+* [HDI_4DRemoteSession](https://github.com/4d-depot/HDI_4DRemoteSession) - Use the 4D remote session object with Client/Server application
+* [HDI_4DVP_Object_and_Collection_in_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_Object_and_Collection_in_Custom_Functions) - Use custom functions with collection or object parameters in [4D View Pro](https://us.4d.com/4d-view-pro) documents
+* [HDI_4DWP_LargeTables](https://github.com/4d-depot/HDI_4DWP_LargeTables) - Use huge [4D Write Pro](https://us.4d.com/4D-write-pro) tables
+* [HDI_4DWP_ManageAnchoredPictures](https://github.com/4d-depot/HDI_4DWP_ManageAnchoredPictures) - Manage text wrapping around pictures and text boxes in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
+* [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 
 ## 4D v20 R4
 
