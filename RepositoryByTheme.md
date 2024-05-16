@@ -139,6 +139,8 @@ There are several categories of Repository:
 
 ## Email
 
+Creating, sending, or receiving emails in 4D is available.
+
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
@@ -267,12 +269,16 @@ There are several categories of Repository:
 
 ## User class
 
+The 4D language supports the concept of [classes](https://developer.4d.com/docs/Concepts/classes). In a programming language, using a class allows you to define an object behaviour with associated properties and functions.
+
 * [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
 * [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
 * [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
 
 ## Web
+
+4D in local mode, 4D in remote mode, and 4D Server include a [web server engine](https://developer.4d.com/docs/WebServer/overview) that enables you to design and publish powerful web applications that can make the most of your 4D databases.
 
 * [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
