@@ -73,7 +73,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_UseTextBoxes_V2](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes_V2) - Import and Export text boxes in [4D Write Pro](https://us.4d.com/4D-write-pro)
 * [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
 * [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
-* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mails through the Microsoft GRAPH API
+* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server 
 
 ## 4D v19 R8
