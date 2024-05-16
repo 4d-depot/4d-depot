@@ -47,7 +47,7 @@ There are several categories of Repository:
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
-* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mails through the Microsoft GRAPH API
+* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
 * [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
 
@@ -164,7 +164,7 @@ Creating, sending, or receiving emails in 4D is available.
 ### Microsoft GRAPH API
 
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
-* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mails through the Microsoft GRAPH API
+* [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
 * [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
 
