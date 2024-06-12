@@ -133,6 +133,7 @@ There are several categories of Repository:
 ## Administration
 
 * [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
+* [HDI_Component_Management](https://github.com/4d-depot/HDI_Component_Management) - Optimize your component management
 * [HDI_Monitor_Activity](https://github.com/4d-depot/HDI_Monitor_Activity) - Monitor 4D Server activity
 * [HDI_ScalableSession](https://github.com/4d-depot/HDI_ScalableSession) - Get started with scalable web sessions
 * [HDI_Systemworker](https://github.com/4d-depot/HDI_Systemworker) - Use systemWorkers to start many processes at the same time asynchronously
