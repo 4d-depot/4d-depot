@@ -33,6 +33,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_LargeTables](https://github.com/4d-depot/HDI_4DWP_LargeTables) - Use huge [4D Write Pro](https://us.4d.com/4D-write-pro) tables
 * [HDI_4DWP_ManageAnchoredPictures](https://github.com/4d-depot/HDI_4DWP_ManageAnchoredPictures) - Manage text wrapping around pictures and text boxes in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_Component_Management](https://github.com/4d-depot/HDI_Component_Management) - Optimize your component management
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 * [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
