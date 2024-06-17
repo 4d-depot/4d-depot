@@ -219,13 +219,15 @@ Creating, sending, or receiving emails in 4D is available.
 
 * [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [Demo_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/Demo_ORDA_ContextAndRequestsOptimization) - Optimization and cache demo
-* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents 
+* [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents
+* [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
 * [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
 * [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to ORDA data model classes
 * [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
-* [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords 
+* [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords
+* [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
@@ -266,6 +268,7 @@ Creating, sending, or receiving emails in 4D is available.
 
 * [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
+* [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 
 ## User class
