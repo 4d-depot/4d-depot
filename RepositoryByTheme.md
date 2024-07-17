@@ -45,6 +45,7 @@ There are several categories of Repository:
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
+* [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
@@ -128,6 +129,7 @@ There are several categories of Repository:
 * [HDI_4DWP_ORDA_Breaks](https://github.com/4d-depot/HDI_4DWP_ORDA_Breaks) - Use break rows in 4D Write Pro tables
 * [HDI_4DWP_ORDA_Tables](https://github.com/4d-depot/HDI_4DWP_ORDA_Tables) - Use entity selections and collections to fill tables in 4D Write Pro documents
 * [HDI_4DWP_RepeatedHeaders](https://github.com/4d-depot/HDI_4DWP_RepeatedHeaders) - Define headers in 4D Write Pro tables
+* [HDI_4DWP_TablesWithEmptyDataSources](https://github.com/4d-depot/HDI_4DWP_TablesWithEmptyDataSources) - Manage tables with empty datasources
 * [HDI_WPTableWizard](https://github.com/4d-depot/HDI_WPTableWizard) - Use the 4D Write Pro table wizard
 
 ## Administration
@@ -220,6 +222,7 @@ Creating, sending, or receiving emails in 4D is available.
 * [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [Demo_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/Demo_ORDA_ContextAndRequestsOptimization) - Optimization and cache demo
 * [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents
+* [HDI_CleanEntitySelection](https://github.com/4d-depot/HDI_CleanEntitySelection) - Clean deleted entities in entity selection
 * [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
 * [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
@@ -244,6 +247,8 @@ Creating, sending, or receiving emails in 4D is available.
 * [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
+* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
+* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
 ## Qodly studio for 4D
@@ -251,6 +256,7 @@ Creating, sending, or receiving emails in 4D is available.
 [Qodly Studio](https://developer.4d.com/docs/WebServer/qodly-studio/) is part of the Qodly platform, dedicated to the development of web business applications designed, tested and published entirely in the Qodly Cloud.
 
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
 * [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
 * [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
@@ -285,9 +291,11 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 4D in local mode, 4D in remote mode, and 4D Server include a [web server engine](https://developer.4d.com/docs/WebServer/overview) that enables you to design and publish powerful web applications that can make the most of your 4D databases.
 
 * [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
+* [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the HDI_HTTP_Classes with support for agents
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
+* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
