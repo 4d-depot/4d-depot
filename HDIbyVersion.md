@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 20 R6](#4d-20-r6)
 - [4D 20 R5](#4d-20-r5)
 - [4D v20 R4](#4d-v20-r4)
 - [4D v20 R3](#4d-v20-r3)
@@ -26,6 +27,16 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
 
+## 4D 20 R6
+
+* [HDI_4DWP_TablesWithEmptyDataSources](https://github.com/4d-depot/HDI_4DWP_TablesWithEmptyDataSources) - Manage tables with empty datasources
+* [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the HDI_HTTP_Classes with support for agents
+* [HDI_CleanEntitySelection](https://github.com/4d-depot/HDI_CleanEntitySelection) - Clean deleted entities in entity selection
+* [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Get started with inspecting the privileges in the session
+* [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface
+* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
+* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environmenT
+
 ## 4D 20 R5
 
 * [HDI_4DRemoteSession](https://github.com/4d-depot/HDI_4DRemoteSession) - Use the 4D remote session object with Client/Server application
@@ -34,7 +45,6 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_ManageAnchoredPictures](https://github.com/4d-depot/HDI_4DWP_ManageAnchoredPictures) - Manage text wrapping around pictures and text boxes in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_Component_Management](https://github.com/4d-depot/HDI_Component_Management) - Optimize your component management
-* [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 * [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
