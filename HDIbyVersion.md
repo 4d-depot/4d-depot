@@ -29,11 +29,11 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## 4D 20 R6
 
-* [HDI_4DWP_TablesWithEmptyDataSources](https://github.com/4d-depot/HDI_4DWP_TablesWithEmptyDataSources) - Manage tables with empty datasources
-* [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the HDI_HTTP_Classes with support for agents
-* [HDI_CleanEntitySelection](https://github.com/4d-depot/HDI_CleanEntitySelection) - Clean deleted entities in entity selection
+* [HDI_4DWP_TablesWithEmptyDataSources](https://github.com/4d-depot/HDI_4DWP_TablesWithEmptyDataSources) - Manage [4D Write Pro](https://us.4d.com/4D-write-pro) tables with empty datasources
+* [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) with support for agents
+* [HDI_CleanEntitySelection](https://github.com/4d-depot/HDI_CleanEntitySelection) - Clean deleted entities in entity selection with [ORDA](https://us.4d.com/orda)
 * [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Get started with inspecting the privileges in the session
-* [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface
+* [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface with [4D NetKit](https://github.com/4d/4D-NetKit)
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environmenT
 
@@ -52,8 +52,8 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D v20 R4
 
 * [HDI_4DWP_GenerateFacturX](https://github.com/4d-depot/HDI_4DWP_GenerateFacturX) - Generate a factur-x/ZUGFeRD document in [4D Write Pro](https://us.4d.com/4D-write-pro)
-* [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
-* [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Using NetKit to manage emails from Gmail
+* [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use [4D NetKit](https://github.com/4d/4D-NetKit) to manage Gmail labels
+* [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Using [4D NetKit](https://github.com/4d/4D-NetKit) to manage emails from Gmail
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 
 ## 4D v20 R3
