@@ -134,6 +134,8 @@ There are several categories of Repository:
 
 ## Administration
 
+Resources and tools for managing 4D projects, including project compilation, component management, and session monitoring.
+
 * [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
 * [HDI_Component_Management](https://github.com/4d-depot/HDI_Component_Management) - Optimize your component management
 * [HDI_Monitor_Activity](https://github.com/4d-depot/HDI_Monitor_Activity) - Monitor 4D Server activity
@@ -183,12 +185,16 @@ Creating, sending, or receiving emails in 4D is available.
 
 ## Form
 
+Features for creating and managing [4D forms](https://developer.4d.com/docs/FormEditor/forms) in 4D, enhancing user input and interaction capabilities.
+
 * [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 
 ### Form object
+
+Specific features for handling [4D form objects](https://developer.4d.com/docs/FormObjects/formObjectsOverview) within forms, including advanced controls and methods.
 
 * [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
 * [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
@@ -198,6 +204,8 @@ Creating, sending, or receiving emails in 4D is available.
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ### Listbox
+
+Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjects/listboxOverview) in 4D forms, allowing for sophisticated data displays and interactions.
 
 * [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
 * [HDI_LB_DragAndDrop](https://github.com/4d-depot/HDI_LB_DragAndDrop) - Drag and drop without "alt" key
@@ -237,6 +245,8 @@ Creating, sending, or receiving emails in 4D is available.
 
 ## Programming features
 
+Advanced programming features for enhancing the development process in 4D projects.
+
 * [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
 * [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
 * [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
@@ -265,12 +275,16 @@ Creating, sending, or receiving emails in 4D is available.
 
 ## Tools
 
+Various utilities and tools aimed at enhancing the development experience in 4D, including debugging and administration tools.
+
 * [AdministrationOnline](https://github.com/4d-depot/AdministrationOnline) - Integrate your Own Administration Window for 4D Server
 * [4DDebugLogAnalyser](https://github.com/4d-depot/4DDebugLogAnalyser) - Tool to analyse debug logs produced by 4D
 * [Build4D](https://github.com/4d-depot/Build4D) - Tool to compile, build, and sign your 4D project
 * [Tool_Compilation](https://github.com/4d-depot/Tool_Compilation) - Tool to launch a compilation by command line
 
 ## Security
+
+Resources for implementing security measures in 4D applications, focusing on data protection and user permissions.
 
 * [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
