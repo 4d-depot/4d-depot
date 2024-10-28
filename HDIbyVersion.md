@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 20 R7](#4d-20-r7)
 - [4D 20 R6](#4d-20-r6)
 - [4D 20 R5](#4d-20-r5)
 - [4D v20 R4](#4d-v20-r4)
@@ -26,6 +27,15 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D 20 R7
+
+* [HDI_4DWP_ManageSections](https://github.com/4d-depot/HDI_4DWP_ManageSections) - Manage [4D Write Pro](https://us.4d.com/4D-write-pro) sections and subsections
+* [HDI_4DWP_ViewSettingsV2](https://github.com/4d-depot/HDI_4DWP_ViewSettingsV2) - Use the [4D Write Pro](https://us.4d.com/4D-write-pro)View Properties
+* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
+* [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
+* [HDI_SetWindowDocumentIcon](https://github.com/4d-depot/HDI_SetWindowDocumentIcon) - Set an icon and/or a document to the window title bar 
+* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 
 ## 4D 20 R6
 
