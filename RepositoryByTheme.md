@@ -86,6 +86,7 @@ There are several categories of Repository:
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
 * [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
+* [HDI_4DWP_ManageSections](https://github.com/4d-depot/HDI_4DWP_ManageSections) - Manage sections and subsections
 * [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
 * [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in 4D Write Pro documents
 * [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
@@ -94,6 +95,7 @@ There are several categories of Repository:
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
+* [HDI_4DWP_ViewSettingsV2](https://github.com/4d-depot/HDI_4DWP_ViewSettingsV2) - Use the 4D Write Pro View Properties
 
 ### Formula
 
@@ -189,6 +191,7 @@ Features for creating and managing [4D forms](https://developer.4d.com/docs/Form
 
 * [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
+* [HDI_SetWindowDocumentIcon](https://github.com/4d-depot/HDI_SetWindowDocumentIcon) - Set an icon and/or a document to the window title bar
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 
@@ -256,9 +259,11 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
 * [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
+* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
+* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
 ## Qodly studio for 4D
@@ -298,8 +303,10 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
 * [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
-* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes 
+* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes
+* [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
+* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 
 ## Web
 
