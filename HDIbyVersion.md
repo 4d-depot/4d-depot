@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 20 R7](#4d-20-r8)
 - [4D 20 R7](#4d-20-r7)
 - [4D 20 R6](#4d-20-r6)
 - [4D 20 R5](#4d-20-r5)
@@ -27,6 +28,11 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D 20 R8
+
+* [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
+* [HDI_Sign4DWPdocuments](https://github.com/4d-depot/HDI_Sign4DWPdocuments) - Use cryptoKey class to sign and verify [4D Write Pro](https://us.4d.com/4D-write-pro) documents 
 
 ## 4D 20 R7
 
