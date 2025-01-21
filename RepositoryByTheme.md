@@ -96,6 +96,7 @@ There are several categories of Repository:
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
 * [HDI_4DWP_ViewSettingsV2](https://github.com/4d-depot/HDI_4DWP_ViewSettingsV2) - Use the 4D Write Pro View Properties
+* [HDI_Sign4DWPdocuments](https://github.com/4d-depot/HDI_Sign4DWPdocuments) - Use cryptoKey class to sign and verify 4D Write Pro documents 
 
 ### Formula
 
@@ -318,6 +319,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
+* [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
