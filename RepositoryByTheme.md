@@ -315,6 +315,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 
 * [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
 * [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the HDI_HTTP_Classes with support for agents
+* [HDI_HTTP_RequestHandler](https://github.com/4d-depot/HDI_HTTP_RequestHandler) - Get started with the HTTP RequestHandler 
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
