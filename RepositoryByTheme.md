@@ -12,6 +12,7 @@ There are several categories of Repository:
 ## Table of Contents
 
 - [4D NetKit](#4d-netkit)
+- [4D Qodly Pro](#4d-qodly-pro)
 - [4D View Pro](#4d-view-pro)
 - [4D Write Pro](#4d-write-pro)
   - [Formula](#formula)
@@ -30,7 +31,6 @@ There are several categories of Repository:
 - [Mobile](#mobile)
 - [ORDA](#orda)
 - [Programming features](#programming-features)
-- [Qodly studio](#qodly-studio-for-4d)
 - [Tools](#tools)
 - [Security](#security)
 - [User class](#user-class)
@@ -51,6 +51,19 @@ There are several categories of Repository:
 * [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
 * [HDI_office365_SendMail](https://github.com/4d-depot/HDI_office365_SendMail) - Send an email from my Microsoft account
+
+## 4D Qodly Pro
+
+With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to interactive, responsive web interfaces and design modern Web Business applications powered by 4D Technology.
+
+* [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
+* [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
+* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
+* [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
+* [Play In Qodly Studio: entity selection and collection](https://github.com/4d-depot/PIQS_EntitySelectionAndCollection) - How to use Entity Selection and Collection
+* [PIQS_PerformanceReviewApp](https://github.com/4d-depot/PIQS_PerformanceReviewApp) - Demo application for 4D Qodly Pro and 4D Write Pro 
+* [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
 
 ## 4D View Pro
 
@@ -266,18 +279,6 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
-
-## Qodly studio for 4D
-
-[Qodly Studio](https://developer.4d.com/docs/WebServer/qodly-studio/) is part of the Qodly platform, dedicated to the development of web business applications designed, tested and published entirely in the Qodly Cloud.
-
-* [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
-* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
-* [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
-* [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
-* [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
-* [Play In Qodly Studio: entity selection and collection](https://github.com/4d-depot/PIQS_EntitySelectionAndCollection) - How to use Entity Selection and Collection
-* [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
 
 ## Tools
 
