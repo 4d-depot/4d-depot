@@ -34,6 +34,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_HTTP_RequestHandler](https://github.com/4d-depot/HDI_HTTP_RequestHandler) - Get started with the HTTP RequestHandler 
 * [HDI_Sign4DWPdocuments](https://github.com/4d-depot/HDI_Sign4DWPdocuments) - Use cryptoKey class to sign and verify [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
+* [PIQS_PerformanceReviewApp](https://github.com/4d-depot/PIQS_PerformanceReviewApp) - Demo application for 4D Qodly Pro and 4D Write Pro 
 
 ## 4D 20 R7
 
