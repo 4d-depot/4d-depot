@@ -220,6 +220,13 @@ Specific features for handling [4D form objects](https://developer.4d.com/docs/F
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+
+### Web Area
+
+[Web areas](https://developer.4d.com/docs/FormObjects/webAreaOverview) can display various types of web content within your forms: HTML pages with static or dynamic contents, files, pictures, JavaScript, etc.
+
+* [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d
+* [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ### Listbox
