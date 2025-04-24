@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 20 R9](#4d-20-r9)
 - [4D 20 R8](#4d-20-r8)
 - [4D 20 R7](#4d-20-r7)
 - [4D 20 R6](#4d-20-r6)
@@ -28,6 +29,13 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D 20 R9
+
+* [HDI_4DVP_End_Loading_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_End_Loading_Custom_Functions) - Use callback function to wait for end of loading of custom function in 4D View Pro document 
+* [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d 
+* [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with NetKit
+* [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 
 ## 4D 20 R8
 
