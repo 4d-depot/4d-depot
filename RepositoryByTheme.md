@@ -41,6 +41,7 @@ There are several categories of Repository:
 [4D NetKit](https://github.com/4d/4D-NetKit/) is a built-in 4D component that allows you to interact with third-party web services and their APIs, such as Microsoft Graph, Google REST API.
 
 * [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
+* [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with NetKit
 * [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
@@ -75,6 +76,7 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 * [HDI_4DVP_CreateTables](https://github.com/4d-depot/HDI_4DVP_CreateTables) - Display a collection as a table
 * [HDI_4DVP_DataContext](https://github.com/4d-depot/HDI_4DVP_DataContext) - Populate a sheet with a data context
 * [HDI_4DVP_End_Loading](https://github.com/4d-depot/HDI_4DVP_End_Loading) - Know when a 4D View Pro document has finished loading
+* [HDI_4DVP_End_Loading_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_End_Loading_Custom_Functions) - Use callback function to wait for end of loading of custom function in 4D View Pro document
 * [HDI_4DVP_Events](https://github.com/4d-depot/HDI_4DVP_Events) - Manage events in 4D View Pro
 * [HDI_4DVP_Export_PDF](https://github.com/4d-depot/HDI_4DVP_Export_PDF) - Export PDFs or print 4D View Pro documents
 * [HDI_4DVP_Export_SVG](https://github.com/4d-depot/HDI_4DVP_Export_SVG) - Convert 4D View Pro documents to SVG pictures
@@ -314,6 +316,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 
 4D in local mode, 4D in remote mode, and 4D Server include a [web server engine](https://developer.4d.com/docs/WebServer/overview) that enables you to design and publish powerful web applications that can make the most of your 4D databases.
 
+* [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d
 * [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
 * [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the HDI_HTTP_Classes with support for agents
 * [HDI_HTTP_RequestHandler](https://github.com/4d-depot/HDI_HTTP_RequestHandler) - Get started with the HTTP RequestHandler 
@@ -322,7 +325,9 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
+* [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
