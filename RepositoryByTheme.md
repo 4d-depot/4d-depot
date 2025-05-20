@@ -286,7 +286,6 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
-* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
 ## Tools
