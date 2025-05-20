@@ -51,7 +51,6 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
 * [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
 * [HDI_SetWindowDocumentIcon](https://github.com/4d-depot/HDI_SetWindowDocumentIcon) - Set an icon and/or a document to the window title bar 
-* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 
 ## 4D 20 R6
 
