@@ -330,6 +330,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
+* [HDI_Session_Token](https://github.com/4d-depot/HDI_Session_Token) - Restore a web session with a token (OTP)
 * [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
 * [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
