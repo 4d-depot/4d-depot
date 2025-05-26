@@ -35,6 +35,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DVP_End_Loading_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_End_Loading_Custom_Functions) - Use callback function to wait for end of loading of custom function in 4D View Pro document 
 * [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d 
 * [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with NetKit
+* [HDI_Session_Token](https://github.com/4d-depot/HDI_Session_Token) - Restore a web session with a token (OTP)
 * [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 
 ## 4D 20 R8
