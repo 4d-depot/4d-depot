@@ -11,6 +11,7 @@ There are several categories of Repository:
 
 ## Table of Contents
 
+- [4D AIKit](#4d-AIKit)
 - [4D NetKit](#4d-netkit)
 - [4D Qodly Pro](#4d-qodly-pro)
 - [4D View Pro](#4d-view-pro)
@@ -35,6 +36,13 @@ There are several categories of Repository:
 - [Security](#security)
 - [User class](#user-class)
 - [Web](#web)
+
+## 4D AIKit
+
+[4D AIKit](https://developer.4d.com/docs/category/4d-aikit) is a built-in 4D component that enables interaction with third-party AI APIs.
+
+* [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching 
+* [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
 
 ## 4D NetKit
 
