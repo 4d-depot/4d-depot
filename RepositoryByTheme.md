@@ -30,12 +30,14 @@ There are several categories of Repository:
   - [Form object](#form-object)
   - [Listbox](#listbox)
 - [Mobile](#mobile)
+- [Network](#network)
 - [ORDA](#orda)
 - [Programming features](#programming-features)
 - [Tools](#tools)
 - [Security](#security)
 - [User class](#user-class)
 - [Web](#web)
+
 
 ## 4D AIKit
 
@@ -215,6 +217,7 @@ Features for creating and managing [4D forms](https://developer.4d.com/docs/Form
 
 * [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
+* [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_SetWindowDocumentIcon](https://github.com/4d-depot/HDI_SetWindowDocumentIcon) - Set an icon and/or a document to the window title bar
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
@@ -257,6 +260,12 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 
 * [HDI_CartExample](https://github.com/4d-depot/HDI_CartExample) - Place Orders with 4D for Android and 4D for iOS
 
+## Network
+
+* [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
+* [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners
+* [HDI_UDPSocket](https://github.com/4d-depot/HDI_UDPSocket) - Use the UDPSocket and UDPEvent classes to communicate through the UDP protocol
+
 ## ORDA
 
 [ORDA](https://us.4d.com/orda), which stands for Object Relational Data Access, is an innovative way of accessing data that combines the advantages of object-oriented programming with those of relational databases.
@@ -270,7 +279,9 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with ORDA Data Model Classes
 * [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to ORDA data model classes
 * [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
+* [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the ORDA entity constructor
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
+* [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the ORDA touched event
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
@@ -293,6 +304,7 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
+* [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 
