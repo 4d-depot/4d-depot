@@ -43,6 +43,7 @@ There are several categories of Repository:
 
 [4D AIKit](https://developer.4d.com/docs/category/4d-aikit) is a built-in 4D component that enables interaction with third-party AI APIs.
 
+* [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching 
 * [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
 
@@ -50,6 +51,7 @@ There are several categories of Repository:
 
 [4D NetKit](https://github.com/4d/4D-NetKit/) is a built-in 4D component that allows you to interact with third-party web services and their APIs, such as Microsoft Graph, Google REST API.
 
+* [HDI_Calendar_Event_Management](https://github.com/4d-depot/HDI_Calendar_Event_Management) - Create / update calendar events from Google Calendar or Microsoft 365 with 4D NetKit.
 * [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
 * [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with NetKit
 * [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
@@ -287,6 +289,7 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
+* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 
 ## Programming features
 
@@ -307,6 +310,7 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
+* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 
 ## Tools
 
@@ -337,6 +341,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
+* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 
 ## Web
 
