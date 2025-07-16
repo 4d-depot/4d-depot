@@ -6,7 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
-- [4D_20_R10](#4d-20-r10)
+- [4D 20 R10](#4d-20-r10)
 - [4D 20 R9](#4d-20-r9)
 - [4D 20 R8](#4d-20-r8)
 - [4D 20 R7](#4d-20-r7)
@@ -33,9 +33,12 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## 4D 20 R10
 
-* [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the ORDA entity constructor
-* [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the ORDA touched event
+* [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
+* [HDI_Calendar_Event_Management](https://github.com/4d-depot/HDI_Calendar_Event_Management) - Create / update calendar events from Google Calendar or Microsoft 365 with [4D NetKit](https://github.com/4d/4D-NetKit).
+* [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the [ORDA](https://us.4d.com/orda) entity constructor
+* [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the [ORDA](https://us.4d.com/orda) touched event
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
+* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 * [HDI_UDPSocket](https://github.com/4d-depot/HDI_UDPSocket) - Use the UDPSocket and UDPEvent classes to communicate through the UDP protocol
 
 ## 4D 20 R9
