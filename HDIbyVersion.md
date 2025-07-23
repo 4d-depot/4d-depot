@@ -34,6 +34,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D 20 R10
 
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
+* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_Calendar_Event_Management](https://github.com/4d-depot/HDI_Calendar_Event_Management) - Create / update calendar events from Google Calendar or Microsoft 365 with [4D NetKit](https://github.com/4d/4D-NetKit).
 * [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the [ORDA](https://us.4d.com/orda) entity constructor
 * [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the [ORDA](https://us.4d.com/orda) touched event
@@ -43,9 +44,9 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## 4D 20 R9
 
-* [HDI_4DVP_End_Loading_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_End_Loading_Custom_Functions) - Use callback function to wait for end of loading of custom function in 4D View Pro document 
+* [HDI_4DVP_End_Loading_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_End_Loading_Custom_Functions) - Use callback function to wait for end of loading of custom function in [4D View Pro](https://us.4d.com/4d-view-pro) document 
 * [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d 
-* [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with NetKit
+* [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with [4D NetKit](https://github.com/4d/4D-NetKit)
 * [HDI_Session_Token](https://github.com/4d-depot/HDI_Session_Token) - Restore a web session with a token (OTP)
 * [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching 
