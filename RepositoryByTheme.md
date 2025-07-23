@@ -11,7 +11,7 @@ There are several categories of Repository:
 
 ## Table of Contents
 
-- [4D AIKit](#4d-AIKit)
+- [4D AIKit](#4d-aikit)
 - [4D NetKit](#4d-netkit)
 - [4D Qodly Pro](#4d-qodly-pro)
 - [4D View Pro](#4d-view-pro)
@@ -44,6 +44,7 @@ There are several categories of Repository:
 [4D AIKit](https://developer.4d.com/docs/category/4d-aikit) is a built-in 4D component that enables interaction with third-party AI APIs.
 
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
+* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching 
 * [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
 
@@ -108,6 +109,7 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 [4D Write Pro](https://us.4d.com/4D-write-pro) is a powerful template-based document generator system entirely programmable and fully integrated into 4D.
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
+* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
 * [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and how do I replace them
