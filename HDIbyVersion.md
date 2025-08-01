@@ -41,6 +41,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 * [HDI_UDPSocket](https://github.com/4d-depot/HDI_UDPSocket) - Use the UDPSocket and UDPEvent classes to communicate through the UDP protocol
+* [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
 
 ## 4D 20 R9
 
