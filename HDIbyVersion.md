@@ -39,6 +39,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_Calendar_Event_Management](https://github.com/4d-depot/HDI_Calendar_Event_Management) - Create / update calendar events from Google Calendar or Microsoft 365 with [4D NetKit](https://github.com/4d/4D-NetKit).
 * [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the [ORDA](https://us.4d.com/orda) entity constructor
 * [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the [ORDA](https://us.4d.com/orda) touched event
+* [HDI_ORDA_Events_Details](https://github.com/4d-depot/HDI_ORDA_Events_Details) - More details about the constructor and the touched event when used through a network
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 * [HDI_UDPSocket](https://github.com/4d-depot/HDI_UDPSocket) - Use the UDPSocket and UDPEvent classes to communicate through the UDP protocol
@@ -270,4 +271,5 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an [ORDA](https://us.4d.com/orda) remote datastore
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+
 
