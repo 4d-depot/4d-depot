@@ -310,6 +310,7 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the ORDA entity constructor
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the ORDA touched event
+* [HDI_ORDA_Events_Details](https://github.com/4d-depot/HDI_ORDA_Events_Details) - More details about the constructor and the touched event when used through a network
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
@@ -387,6 +388,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
