@@ -21,6 +21,7 @@ There are several categories of Repository:
   - [Picture](#picture)
   - [Table](#table)
 - [Administration](#administration)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Email](#email)
   - [IMAP](#imap)
   - [Gmail API](#gmail-api)
@@ -112,24 +113,19 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 [4D Write Pro](https://us.4d.com/4D-write-pro) is a powerful template-based document generator system entirely programmable and fully integrated into 4D.
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
-* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
-* [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize 4D Write Pro documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
-* [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and replace them
-* [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
-* [HDI_4DWP_ManageSections](https://github.com/4d-depot/HDI_4DWP_ManageSections) - Manage sections and subsections
-* [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
-* [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in 4D Write Pro documents
-* [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
-* [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
 * [HDI_4DWP_ViewSettingsV2](https://github.com/4d-depot/HDI_4DWP_ViewSettingsV2) - Use the 4D Write Pro View Properties
-* [HDI_Sign4DWPdocuments](https://github.com/4d-depot/HDI_Sign4DWPdocuments) - Use cryptoKey class to sign and verify 4D Write Pro documents 
+
+### Artificial Intelligence
+
+* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
+* [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize 4D Write Pro documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 
 ### Formula
 
@@ -148,12 +144,26 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a 4D Write Pro document
 * [HDI_4DWP_UseTextBoxes_V2](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes_V2) - Import and Export text boxes
 
+### Page and Section
+
+* [HDI_4DWP_ContinuousSectionBreaks](https://github.com/4d-depot/HDI_4DWP_ContinuousSectionBreaks) - Insert continuous section breaks inside 4D Write Pro documents
+* [HDI_4DWP_GetUserBreaks](https://github.com/4d-depot/HDI_4DWP_GetUserBreaks) - Manage breaks inserted by the user
+* [HDI_4DWP_ManageSections](https://github.com/4d-depot/HDI_4DWP_ManageSections) - Manage sections and subsections
+* [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in 4D Write Pro documents
+* [HDI_4DWP_ParagraphBreaks](https://github.com/4d-depot/HDI_4DWP_ParagraphBreaks)  - Manage special characters returned by formulas
+
 ### Picture
 
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my documents
 * [HDI_4DWP_FormatPictures](https://github.com/4d-depot/HDI_4DWP_FormatPictures) - Set the picture formats inside 4D Write Pro documents
 * [HDI_4DWP_ManageAnchoredPictures](https://github.com/4d-depot/HDI_4DWP_ManageAnchoredPictures) - Manage text wrapping around pictures and text boxes in 4D Write Pro documents
 * [HDI_4DWP_HideEmptyPictures](https://github.com/4d-depot/HDI_4DWP_HideEmptyPictures) - Hide empty or unsupported images in 4D Write Pro
+
+### Protection and Security
+
+* [HDI_4DWP_ModifiedDocuments](https://github.com/4d-depot/HDI_4DWP_ModifiedDocuments) - Detect Document modifications
+* [HDI_4DWP_Protection](https://github.com/4d-depot/HDI_4DWP_Protection) - Protect parts of my 4D Write Pro document
+* [HDI_Sign4DWPdocuments](https://github.com/4d-depot/HDI_Sign4DWPdocuments) - Use cryptoKey class to sign and verify 4D Write Pro documents 
 
 ### Table
 
@@ -177,6 +187,16 @@ Resources and tools for managing 4D projects, including project compilation, com
 * [HDI_Monitor_Activity](https://github.com/4d-depot/HDI_Monitor_Activity) - Monitor 4D Server activity
 * [HDI_ScalableSession](https://github.com/4d-depot/HDI_ScalableSession) - Get started with scalable web sessions
 * [HDI_Systemworker](https://github.com/4d-depot/HDI_Systemworker) - Use systemWorkers to start many processes at the same time asynchronously
+
+## Artificial Intelligence
+
+* [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
+* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
+* [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
+* [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
+* [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
 
 ## Email
 
@@ -367,6 +387,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
