@@ -122,7 +122,7 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside 4D Write Pro documents
 * [HDI_4DWP_ViewSettingsV2](https://github.com/4d-depot/HDI_4DWP_ViewSettingsV2) - Use the 4D Write Pro View Properties
 
-### Artificial Intelligence
+### AI
 
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize 4D Write Pro documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
@@ -388,6 +388,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
