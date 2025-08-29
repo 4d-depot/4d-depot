@@ -16,9 +16,12 @@ There are several categories of Repository:
 - [4D Qodly Pro](#4d-qodly-pro)
 - [4D View Pro](#4d-view-pro)
 - [4D Write Pro](#4d-write-pro)
+  - [AI](#ai)
   - [Formula](#formula)
-  - [Import Export](import-export)
+  - [Import Export](#import-export)
+  - [Page and Section](#page-and-section)
   - [Picture](#picture)
+  - [Protection and Security](#protection-and-security)
   - [Table](#table)
 - [Administration](#administration)
 - [Artificial Intelligence](#artificial-intelligence)
@@ -322,22 +325,31 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 
 Advanced programming features for enhancing the development process in 4D projects.
 
-* [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
-* [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
-* [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
-* [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
-* [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
-* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
-* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
+
+### Collection
+
+* [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
+* [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
+* [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
+
+### File
+
+* [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
+* [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
+
+### Session
+
+* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
+* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 
 ## Tools
 
@@ -388,6 +400,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
