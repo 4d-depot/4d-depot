@@ -49,6 +49,7 @@ There are several categories of Repository:
 
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_4DWP_AI_VectorWithChunk](https://github.com/4d-depot/HDI_4DWP_AI_VectorWithChunk) - Search a paragraph with chunks in [4D Write Pro](https://us.4d.com/4D-write-pro) documents using 4D AIKit component
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
 * [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
@@ -127,8 +128,9 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 
 ### AI
 
-* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize 4D Write Pro documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
+* [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
+* [HDI_4DWP_AI_VectorWithChunk](https://github.com/4d-depot/HDI_4DWP_AI_VectorWithChunk) - Search a paragraph with chunks in 4D Write Pro documents using [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 
 ### Formula
 
@@ -400,6 +402,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
