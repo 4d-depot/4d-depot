@@ -35,6 +35,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_4DWP_AI_VectorWithChunk](https://github.com/4d-depot/HDI_4DWP_AI_VectorWithChunk) - Search a paragraph with chunks in [4D Write Pro](https://us.4d.com/4D-write-pro) documents using [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 * [HDI_Calendar_Event_Management](https://github.com/4d-depot/HDI_Calendar_Event_Management) - Create / update calendar events from Google Calendar or Microsoft 365 with [4D NetKit](https://github.com/4d/4D-NetKit).
 * [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the [ORDA](https://us.4d.com/orda) entity constructor
@@ -271,5 +272,6 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an [ORDA](https://us.4d.com/orda) remote datastore
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+
 
 
