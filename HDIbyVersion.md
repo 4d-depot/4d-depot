@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 21 LTS](#4d-21-lts)
 - [4D 20 R10](#4d-20-r10)
 - [4D 20 R9](#4d-20-r9)
 - [4D 20 R8](#4d-20-r8)
@@ -30,6 +31,11 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+
+## 4D 21 LTS
+
+* [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 
 ## 4D 20 R10
 
@@ -272,6 +278,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an [ORDA](https://us.4d.com/orda) remote datastore
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+
 
 
 
