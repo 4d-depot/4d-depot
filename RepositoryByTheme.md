@@ -196,6 +196,7 @@ Resources and tools for managing 4D projects, including project compilation, com
 ## Artificial Intelligence
 
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
@@ -305,6 +306,7 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 
 * [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [Demo_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/Demo_ORDA_ContextAndRequestsOptimization) - Optimization and cache demo
+* [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 * [HDI_4DWP_ORDA](https://github.com/4d-depot/HDI_4DWP_ORDA) - Manage ORDA data inside 4D Write Pro documents
 * [HDI_CleanEntitySelection](https://github.com/4d-depot/HDI_CleanEntitySelection) - Clean deleted entities in entity selection
 * [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
@@ -402,6 +404,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
