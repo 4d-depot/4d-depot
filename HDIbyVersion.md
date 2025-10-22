@@ -36,6 +36,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D 21 LTS
 
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
+* [PIQS_Localization](https://github.com/4d-depot/PIQS_Localization) - Handle the localization of your application in [4D Qodly Pro](https://developer.4d.com/qodly/)
 
 ## 4D 20 R10
 
@@ -278,6 +279,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an [ORDA](https://us.4d.com/orda) remote datastore
 * [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+
 
 
 
