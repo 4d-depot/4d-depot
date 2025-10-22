@@ -76,7 +76,7 @@ There are several categories of Repository:
 
 ## 4D Qodly Pro
 
-With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to interactive, responsive web interfaces and design modern Web Business applications powered by 4D Technology.
+With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend your existing 4D applications to interactive, responsive web interfaces and design modern Web Business applications powered by 4D Technology.
 
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
@@ -84,6 +84,7 @@ With 4D Qodly Pro, you can seamlessly extend your existing 4D applications to in
 * [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
 * [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
 * [Play In Qodly Studio: entity selection and collection](https://github.com/4d-depot/PIQS_EntitySelectionAndCollection) - How to use Entity Selection and Collection
+* [PIQS_Localization](https://github.com/4d-depot/PIQS_Localization) - Handle the localization of your application in 4D Qodly Pro
 * [PIQS_PerformanceReviewApp](https://github.com/4d-depot/PIQS_PerformanceReviewApp) - Demo application for 4D Qodly Pro and 4D Write Pro 
 * [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
 
@@ -404,6 +405,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
