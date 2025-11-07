@@ -273,6 +273,8 @@ Specific features for handling [4D form objects](https://developer.4d.com/docs/F
 
 * [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
+* [HDI_Share_C-S_Web_Session](https://github.com/4d-depot/HDI_Share_C-S_Web_Session) - Share a remote session for web access
+* [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ### Listbox
@@ -317,11 +319,13 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within dataclasses
 * [HDI_ORDA_constructor](https://github.com/4d-depot/HDI_ORDA_constructor) - Start with the ORDA entity constructor
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
-* [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the ORDA touched event
 * [HDI_ORDA_Events_Details](https://github.com/4d-depot/HDI_ORDA_Events_Details) - More details about the constructor and the touched event when used through a network
+* [HDI_ORDA_Events_Save_Drop](https://github.com/4d-depot/HDI_ORDA_Events_Save_Drop) - ORDA events for Save and Drop
+* [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the ORDA touched event
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
+* [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
@@ -398,13 +402,16 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
+* [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Session_Token](https://github.com/4d-depot/HDI_Session_Token) - Restore a web session with a token (OTP)
+* [HDI_Share_C-S_Web_Session](https://github.com/4d-depot/HDI_Share_C-S_Web_Session) - Share a remote session for web access
 * [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
 * [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
