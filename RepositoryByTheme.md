@@ -239,12 +239,39 @@ Creating, sending, or receiving emails in 4D is available.
 ## Example application
 
 * [EA_Contacts](https://github.com/4d-depot/EA_Contacts) - Build a simple contact manager using subforms, list boxes, and dynamic objects, offering both list and grid layout views
+<p align="center">
+<img src="assets/contact.png" alt="Contacts Application" width="33%">
+</p>
+
 * [EA_Event_Calendar](https://github.com/4d-depot/EA_Event_Calendar) - Build a professional event manager in 4D by combining native widgets with an open-source calendar component for a clean and intuitive interface
+<p align="center">
+<img src="assets/calendar.png" alt="Event Calendar Application" width="33%">
+</p>
+
 * [EA_Invoices](https://github.com/4d-depot/EA_Invoices) - Build a ready-to-use invoicing system that can be easily adapted to fit specific business needs
+<p align="center">
+<img src="assets/invoices.png" alt="Invoices Application" width="33%">
+</p>
+
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer) - Build a lightweight, component-ready email composer using 4D Write Pro, subforms, and SMTP Transport
+<p align="center">
+<img src="assets/email.png" alt="Email Application" width="33%">
+</p>
+
 * [EA_Recipes](https://github.com/4d-depot/EA_Recipes) - Build a recipe organizer using subforms, list boxes, dynamic objects, and layout techniques to create clear, easy-to-follow recipe views
+<p align="center">
+<img src="assets/recipe.png" alt="Recipes Application" width="33%">
+</p>
+
 * [EA_Simple_Canvas_Tool](https://github.com/4d-depot/EA_Simple_Canvas_Tool) - Integrate the HTML5 Canvas with a 4D Web Area to create a simple drawing tool, with options to save drawings in the database or export them as PNG
+<p align="center">
+<img src="assets/canvas.png" alt="Canvas Application" width="33%">
+</p>
+
 * [EA_Tasks](https://github.com/4d-depot/EA_Tasks) - Build a simple task manager using subforms, list boxes, and a lightweight Gantt chart based on multi-styled text, allowing users to create, update, and track tasks easily
+<p align="center">
+<img src="assets/task.png" alt="Task Application" width="33%">
+</p>
 
 ## Form
 
@@ -411,6 +438,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
 
