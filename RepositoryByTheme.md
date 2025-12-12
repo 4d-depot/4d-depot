@@ -50,6 +50,7 @@ There are several categories of Repository:
 
 [4D AIKit](https://developer.4d.com/docs/category/4d-aikit) is a built-in 4D component that enables interaction with third-party AI APIs.
 
+* [EA_INVOICES/AI chat](https://github.com/4d-depot/EA_Invoices/tree/AIChat) - Add AI-powered features to a 30-year-old 4D application (chart, report,..)  
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_AI_VectorWithChunk](https://github.com/4d-depot/HDI_4DWP_AI_VectorWithChunk) - Search a paragraph with chunks in [4D Write Pro](https://us.4d.com/4D-write-pro) documents using 4D AIKit component
@@ -57,6 +58,7 @@ There are several categories of Repository:
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
 * [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
 * [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
+* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation) 
 
 
 ## 4D NetKit
@@ -202,13 +204,15 @@ Resources and tools for managing 4D projects, including project compilation, com
 Examples involving artificial intelligence (AI): demos and proof‑of‑concepts using various APIs or techniques, with or without the 4D AIKit component.
 
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation) 
+* [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
+* [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
+* [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
+* [EA_INVOICES/AI chat](https://github.com/4d-depot/EA_Invoices/tree/AIChat) - Add AI-powered features to a 30-year-old 4D application (chart, report,..) 
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
-* [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
-* [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
-* [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
 
 ## Email
 
@@ -456,4 +460,5 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
