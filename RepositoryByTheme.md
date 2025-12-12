@@ -8,6 +8,7 @@ There are several categories of Repository:
 * How Do I demonstration (HDI) - Simple demonstration of a new [4D](https://4d.com) feature
 * Play in Qodly Studio (PIQS) - Simple demonstration of a new feature in Qodly Studio for [4D](https://4d.com)
 * Webinar example (Webinar)- [4D](https://4d.com) example used in a webinar. The videos are available on the [Webinar playlist](https://www.youtube.com/playlist?list=PL2PF2oGPokRdQLsqpIU6sHmbSSOX4xOvl) on the [4D Software YouTube channel](https://www.youtube.com/c/4dsoftware).
+* Demonstration (DEMO) - A focused, runnable showcase of a specific concept or feature, typically broader than an HDI and used for presentations, blog posts, or tutorials
 
 ## Table of Contents
 
@@ -30,15 +31,17 @@ There are several categories of Repository:
   - [Gmail API](#gmail-api)
   - [Microsoft GRAPH API](#microsoft-graph-api)
 - [Example application](#example-application)
-- [Form](#form)
-  - [Form object](#form-object)
-  - [Listbox](#listbox)
+- [Language & Runtime](#language--runtime)
 - [Mobile](#mobile)
 - [Network](#network)
 - [ORDA](#orda)
-- [Programming features](#programming-features)
-- [Tools](#tools)
 - [Security](#security)
+- [Tools](#tools)
+- [UI & Forms](#ui--forms)
+  - [Forms](#forms)
+  - [Form Objects](#form-objects)
+  - [Listboxes](#listboxes)
+  - [Web Area](#web-area)
 - [User class](#user-class)
 - [Web](#web)
 
@@ -196,6 +199,8 @@ Resources and tools for managing 4D projects, including project compilation, com
 
 ## Artificial Intelligence
 
+Examples involving artificial intelligence (AI): demos and proof‑of‑concepts using various APIs or techniques, with or without the 4D AIKit component.
+
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
@@ -238,87 +243,79 @@ Creating, sending, or receiving emails in 4D is available.
 
 ## Example application
 
+Complete, runnable 4D applications demonstrating common business scenarios and UI patterns.
+
+<img align="right" src="assets/contact.png" width="300">
+
 * [EA_Contacts](https://github.com/4d-depot/EA_Contacts) - Build a simple contact manager using subforms, list boxes, and dynamic objects, offering both list and grid layout views
-<p align="center">
-<img src="assets/contact.png" alt="Contacts Application" width="33%">
-</p>
+
+<br clear="right"/>
+
+<img align="right" src="assets/calendar.png" width="300">
 
 * [EA_Event_Calendar](https://github.com/4d-depot/EA_Event_Calendar) - Build a professional event manager in 4D by combining native widgets with an open-source calendar component for a clean and intuitive interface
-<p align="center">
-<img src="assets/calendar.png" alt="Event Calendar Application" width="33%">
-</p>
+
+<br clear="right"/>
+
+<img align="right" src="assets/invoices.png" width="300">
 
 * [EA_Invoices](https://github.com/4d-depot/EA_Invoices) - Build a ready-to-use invoicing system that can be easily adapted to fit specific business needs
-<p align="center">
-<img src="assets/invoices.png" alt="Invoices Application" width="33%">
-</p>
+
+<br clear="right"/>
+
+<img align="right" src="assets/email.png" width="300">
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer) - Build a lightweight, component-ready email composer using 4D Write Pro, subforms, and SMTP Transport
-<p align="center">
-<img src="assets/email.png" alt="Email Application" width="33%">
-</p>
+
+<br clear="right"/>
+
+<img align="right" src="assets/recipe.png" width="300">
 
 * [EA_Recipes](https://github.com/4d-depot/EA_Recipes) - Build a recipe organizer using subforms, list boxes, dynamic objects, and layout techniques to create clear, easy-to-follow recipe views
-<p align="center">
-<img src="assets/recipe.png" alt="Recipes Application" width="33%">
-</p>
+
+<br clear="right"/>
+
+<img align="right" src="assets/canvas.png" width="300">
 
 * [EA_Simple_Canvas_Tool](https://github.com/4d-depot/EA_Simple_Canvas_Tool) - Integrate the HTML5 Canvas with a 4D Web Area to create a simple drawing tool, with options to save drawings in the database or export them as PNG
-<p align="center">
-<img src="assets/canvas.png" alt="Canvas Application" width="33%">
-</p>
+
+<br clear="right"/>
+
+<img align="right" src="assets/task.png" width="300">
 
 * [EA_Tasks](https://github.com/4d-depot/EA_Tasks) - Build a simple task manager using subforms, list boxes, and a lightweight Gantt chart based on multi-styled text, allowing users to create, update, and track tasks easily
-<p align="center">
-<img src="assets/task.png" alt="Task Application" width="33%">
-</p>
 
-## Form
+<br clear="right"/>
 
-Features for creating and managing [4D forms](https://developer.4d.com/docs/FormEditor/forms) in 4D, enhancing user input and interaction capabilities.
+## Language & Runtime
 
-* [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
-* [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
-* [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
-* [HDI_SetWindowDocumentIcon](https://github.com/4d-depot/HDI_SetWindowDocumentIcon) - Set an icon and/or a document to the window title bar
-* [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
-* [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
+Advanced programming features for enhancing the development process in 4D projects.
 
-### Form object
-
-Specific features for handling [4D form objects](https://developer.4d.com/docs/FormObjects/formObjectsOverview) within forms, including advanced controls and methods.
-
-* [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
-* [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
+* [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
+* [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
+* [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
+* [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
-* [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
-* [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+* [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
+* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
+* [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
+* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 
-### Web Area
+### Collection
 
-[Web areas](https://developer.4d.com/docs/FormObjects/webAreaOverview) can display various types of web content within your forms: HTML pages with static or dynamic contents, files, pictures, JavaScript, etc.
+* [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
+* [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
+* [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
 
-* [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d
-* [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
-* [HDI_Share_C-S_Web_Session](https://github.com/4d-depot/HDI_Share_C-S_Web_Session) - Share a remote session for web access
-* [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
-* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
+### File
 
-### Listbox
+* [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
+* [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 
-Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjects/listboxOverview) in 4D forms, allowing for sophisticated data displays and interactions.
+### Session
 
-* [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
-* [HDI_LB_DragAndDrop](https://github.com/4d-depot/HDI_LB_DragAndDrop) - Drag and drop without "alt" key
-* [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
-* [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
-* [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
-* [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
-* [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
-* [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
-* [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
-* [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
-* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
+* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
+* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 
 ## Mobile
 
@@ -357,35 +354,14 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 
-## Programming features
+## Security
 
-Advanced programming features for enhancing the development process in 4D projects.
+Resources for implementing security measures in 4D applications, focusing on data protection and user permissions.
 
-* [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
-* [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
-* [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
-* [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
-* [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
-* [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
-* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
-* [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
-* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
-
-### Collection
-
-* [HDI_4DEACHTag](https://github.com/4d-depot/HDI_4DEACHTag/tree/main) - Get started with 4DEACH tag
-* [HDI_Collection_Functions](https://github.com/4d-depot/HDI_Collection_Functions) - Work with collection functions
-* [HDI_Collection_multiSort](https://github.com/4d-depot/HDI_Collection_multiSort) - Sort and synchronise several collections
-
-### File
-
-* [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
-* [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
-
-### Session
-
-* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
-* [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
+* [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
+* [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
+* [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
+* [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 
 ## Tools
 
@@ -396,14 +372,56 @@ Various utilities and tools aimed at enhancing the development experience in 4D,
 * [Build4D](https://github.com/4d-depot/Build4D) - Tool to compile, build, and sign your 4D project
 * [Tool_Compilation](https://github.com/4d-depot/Tool_Compilation) - Tool to launch a compilation by command line
 
-## Security
+## UI & Forms
 
-Resources for implementing security measures in 4D applications, focusing on data protection and user permissions.
+User interface and forms in 4D: building forms, working with form objects, listboxes, and embedded web content.
 
-* [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
-* [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
-* [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
-* [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
+### Forms
+
+Features for creating and managing [4D forms](https://developer.4d.com/docs/FormEditor/forms) in 4D, enhancing user input and interaction capabilities.
+
+* [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
+* [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
+* [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
+* [HDI_SetWindowDocumentIcon](https://github.com/4d-depot/HDI_SetWindowDocumentIcon) - Set an icon and/or a document to the window title bar
+* [HDI_StyleSheet](https://github.com/4d-depot/HDI_StyleSheet) - Use style sheets in 4D forms
+* [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
+
+### Form Objects
+
+Specific features for handling [4D form objects](https://developer.4d.com/docs/FormObjects/formObjectsOverview) within forms, including advanced controls and methods.
+
+* [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
+* [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
+* [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
+* [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
+* [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+
+### Listboxes
+
+Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjects/listboxOverview) in 4D forms, allowing for sophisticated data displays and interactions.
+
+* [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
+* [HDI_LB_DragAndDrop](https://github.com/4d-depot/HDI_LB_DragAndDrop) - Drag and drop without "alt" key
+* [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
+* [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
+* [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
+* [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
+* [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
+* [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
+* [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
+* [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
+* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
+
+### Web Area
+
+[Web areas](https://developer.4d.com/docs/FormObjects/webAreaOverview) can display various types of web content within your forms: HTML pages with static or dynamic contents, files, pictures, JavaScript, etc.
+
+* [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d
+* [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
+* [HDI_Share_C-S_Web_Session](https://github.com/4d-depot/HDI_Share_C-S_Web_Session) - Share a remote session for web access
+* [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
+* [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
 ## User class
 
@@ -438,17 +456,4 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
-
-
-
-
-
-
-
-
-
-
-
-
-
 
