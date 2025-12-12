@@ -4,11 +4,11 @@
 The list of 4D Depot repositories sorted by theme.
 
 There are several categories of Repository:
-* Example Application (EA) - Full example [4D](https://4d.com) application
-* How Do I demonstration (HDI) - Simple demonstration of a new [4D](https://4d.com) feature
-* Play in Qodly Studio (PIQS) - Simple demonstration of a new feature in Qodly Studio for [4D](https://4d.com)
+* Example Application ([EA](https://github.com/topics/4d-ea)) - Full example [4D](https://4d.com) application
+* How Do I demonstration ([HDI](https://github.com/topics/4d-hdi)) - Simple demonstration of a new [4D](https://4d.com) feature
+* Play in Qodly Studio ([PIQS](https://github.com/topics/4d-piqs)) - Simple demonstration of a new feature in Qodly Studio for [4D](https://4d.com)
 * Webinar example (Webinar)- [4D](https://4d.com) example used in a webinar. The videos are available on the [Webinar playlist](https://www.youtube.com/playlist?list=PL2PF2oGPokRdQLsqpIU6sHmbSSOX4xOvl) on the [4D Software YouTube channel](https://www.youtube.com/c/4dsoftware).
-* Demonstration (DEMO) - A focused, runnable showcase of a specific concept or feature, typically broader than an HDI and used for presentations, blog posts, or tutorials
+* Demonstration ([DEMO](https://github.com/topics/4d-demo)) - A focused, runnable showcase of a specific concept or feature, typically broader than an HDI and used for presentations, blog posts, or tutorials
 
 ## Table of Contents
 
