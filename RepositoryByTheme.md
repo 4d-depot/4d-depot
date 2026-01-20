@@ -124,6 +124,7 @@ With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend 
 
 * [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
+* [HDI_4DWP_AutoIndentBullets](https://github.com/4d-depot/HDI_4DWP_AutoIndentBullets) - Use bullet and numbered lists in 4D Write Pro
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and replace them
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
@@ -460,5 +461,6 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
+
 
 
