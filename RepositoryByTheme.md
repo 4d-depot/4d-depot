@@ -26,6 +26,8 @@ There are several categories of Repository:
   - [Table](#table)
 - [Administration](#administration)
 - [Artificial Intelligence](#artificial-intelligence)
+  - [AI Chat](#ai-chat)
+  - [AI Embeddings](#ai-embeddings)
 - [Email](#email)
   - [IMAP](#imap)
   - [Gmail API](#gmail-api)
@@ -72,6 +74,7 @@ There are several categories of Repository:
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
+* [HDI_IMAP_Events](https://github.com/4d-depot/HDI-IMAP-Events) - How to wait for an IMAP event
 * [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
@@ -204,16 +207,21 @@ Resources and tools for managing 4D projects, including project compilation, com
 
 Examples involving artificial intelligence (AI): demos and proof‑of‑concepts using various APIs or techniques, with or without the 4D AIKit component.
 
+### AI Chat
+
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
-* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation) 
+* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation)
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
 * [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
 * [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
 * [EA_INVOICES/AI chat](https://github.com/4d-depot/EA_Invoices/tree/AIChat) - Add AI-powered features to a 30-year-old 4D application (chart, report,..) 
+* [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
+
+### AI Embeddings
+
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
-* [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 
 ## Email
 
@@ -231,6 +239,7 @@ Creating, sending, or receiving emails in 4D is available.
 * [HDI_IMAPMailCopy](https://github.com/4d-depot/HDI_IMAPMailCopy) - Copy/cut/delete emails using IMAP protocol
 * [HDI_IMAPMailDownloading](https://github.com/4d-depot/HDI_IMAPMailDownloading) - Receive email via IMAP
 * [HDI_IMAPMailSearching](https://github.com/4d-depot/HDI_IMAPMailSearching) - Search emails via IMAP protocol
+* [HDI_IMAP_Events](https://github.com/4d-depot/HDI-IMAP-Events) - How to wait for an IMAP event
 
 ### Gmail API
 
@@ -296,10 +305,12 @@ Complete, runnable 4D applications demonstrating common business scenarios and U
 
 Advanced programming features for enhancing the development process in 4D projects.
 
+* [HDI_4D_Method](https://github.com/4d-depot/HDI_4D_Method) - Execute Code from Text with 4D.Method
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
+* [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
