@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 21 R3](#4d-21-r3)
 - [4D 21 R2](#4d-21-r2)
 - [4D 21 LTS](#4d-21-lts)
 - [4D 20 R10](#4d-20-r10)
@@ -33,6 +34,11 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
 
+## 4D 21 R3
+
+* [HDI_4D_Method](https://github.com/4d-depot/HDI_4D_Method) - Execute Code from Text with 4D.Method
+* [HDI_IMAP_Events](https://github.com/4d-depot/HDI-IMAP-Events) - How to wait for an IMAP event
+* [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
 
 ## 4D 21 R2
 
