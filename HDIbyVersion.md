@@ -37,8 +37,10 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D 21 R3
 
 * [HDI_4D_Method](https://github.com/4d-depot/HDI_4D_Method) - Execute Code from Text with 4D.Method
+* [HDI_4DWP_MultiLevelStyleSheets](https://github.com/4d-depot/HDI_4DWP_MultiLevelStyleSheets/) - Create multi-level lists using multi-level style sheets
 * [HDI_IMAP_Events](https://github.com/4d-depot/HDI-IMAP-Events) - How to wait for an IMAP event
 * [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
+* [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 
 ## 4D 21 R2
 
