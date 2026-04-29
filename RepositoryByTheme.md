@@ -130,6 +130,7 @@ With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend 
 * [HDI_4DWP_AutoIndentBullets](https://github.com/4d-depot/HDI_4DWP_AutoIndentBullets) - Use bullet and numbered lists in 4D Write Pro
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and replace them
 * [HDI_4DWP_LinkedParagraphs](https://github.com/4d-depot/HDI_4DWP_LinkedParagraphs) - Link paragraphs in 4D Write Pro documents
+* [HDI_4DWP_MultiLevelStyleSheets](https://github.com/4d-depot/HDI_4DWP_MultiLevelStyleSheets/) - Create multi-level lists using multi-level style sheets
 * [HDI_4DWP_SetupDecimalTabs](https://github.com/4d-depot/HDI_4DWP_SetupDecimalTabs) - Setup decimal tabulation in 4D Write Pro
 * [HDI_4DWP_Stylesheets](https://github.com/4d-depot/HDI_4DWP_Stylesheets) - Create and use style sheets in a 4D Write Pro document
 * [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use 4D Write Pro features to generate a document 
@@ -312,6 +313,7 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 * [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
+* [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
@@ -330,7 +332,8 @@ Advanced programming features for enhancing the development process in 4D projec
 
 ### Session
 
-* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command 
+* [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command
+* [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 
 ## Mobile
@@ -448,6 +451,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
 * [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes
 * [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
+* [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
