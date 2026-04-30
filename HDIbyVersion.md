@@ -41,6 +41,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_IMAP_Events](https://github.com/4d-depot/HDI-IMAP-Events) - How to wait for an IMAP event
 * [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
 * [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
+* [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
 
 ## 4D 21 R2
 
