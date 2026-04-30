@@ -334,6 +334,7 @@ Advanced programming features for enhancing the development process in 4D projec
 
 * [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command
 * [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
+* [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 
 ## Mobile
@@ -451,6 +452,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
 * [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes
 * [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
+* [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
 * [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
