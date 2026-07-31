@@ -76,6 +76,7 @@ There are several categories of Repository:
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
 * [HDI_IMAP_Events](https://github.com/4d-depot/HDI-IMAP-Events) - How to wait for an IMAP event
 * [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface
+* [HDI_Microsoft_Google_Notifications](https://github.com/4d-depot/HDI_Microsoft_Google_Notifications) - Monitor Google and Office 365 notifications with 4D NetKit
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
@@ -142,6 +143,7 @@ With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend 
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize 4D Write Pro documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with 4D Write Pro documents
 * [HDI_4DWP_AI_VectorWithChunk](https://github.com/4d-depot/HDI_4DWP_AI_VectorWithChunk) - Search a paragraph with chunks in 4D Write Pro documents using [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
+* [HDI_Writing_Tools_Text_Widgets](https://github.com/4d-depot/HDI_Writing_Tools_Text_Widgets) - Access Apple Writing Tools in your Text Inputs and 4D Write Pro Areas
 
 ### Formula
 
@@ -248,9 +250,11 @@ Creating, sending, or receiving emails in 4D is available.
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_Google_manage_labels](https://github.com/4d-depot/HDI_Google_manage_labels) - Use NetKit to manage Gmail labels
 * [HDI_Google_manage_mails](https://github.com/4d-depot/HDI_Google_manage_mails) - Use NetKit to manage emails from Gmail
+* [HDI_Microsoft_Google_Notifications](https://github.com/4d-depot/HDI_Microsoft_Google_Notifications) - Monitor Google and Office 365 notifications with 4D NetKit
 
 ### Microsoft GRAPH API
 
+* [HDI_Microsoft_Google_Notifications](https://github.com/4d-depot/HDI_Microsoft_Google_Notifications) - Monitor Google and Office 365 notifications with 4D NetKit
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_folders](https://github.com/4d-depot/HDI_Office365_manage_folders) - Manage mail folders through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
@@ -416,6 +420,7 @@ Specific features for handling [4D form objects](https://developer.4d.com/docs/F
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+* [HDI_Writing_Tools_Text_Widgets](https://github.com/4d-depot/HDI_Writing_Tools_Text_Widgets) - Access Apple Writing Tools in your Text Inputs and 4D Write Pro Areas
 
 ### Listboxes
 
@@ -469,6 +474,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
+* [HDI_REST_Server_quotas](https://github.com/4d-depot/HDI_REST_Server_quotas) - Learn the quota management mechanism in REST sessions
 * [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Session_Token](https://github.com/4d-depot/HDI_Session_Token) - Restore a web session with a token (OTP)
