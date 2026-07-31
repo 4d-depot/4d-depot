@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 21 R4](#4d-21-r4)
 - [4D 21 R3](#4d-21-r3)
 - [4D 21 R2](#4d-21-r2)
 - [4D 21 LTS](#4d-21-lts)
@@ -33,6 +34,12 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R3](#4d-v18-r3)
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
+
+## 4D 21 R4
+
+* [HDI_Microsoft_Google_Notifications](https://github.com/4d-depot/HDI_Microsoft_Google_Notifications) - Monitor Google and Office 365 notifications with 4D NetKit
+* [HDI_REST_Server_quotas](https://github.com/4d-depot/HDI_REST_Server_quotas) - Learn the quota management mechanism in REST sessions
+* [HDI_Writing_Tools_Text_Widgets](https://github.com/4d-depot/HDI_Writing_Tools_Text_Widgets) - Access Apple Writing Tools in your Text Inputs and 4D Write Pro Areas
 
 ## 4D 21 R3
 
