@@ -40,6 +40,9 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_Microsoft_Google_Notifications](https://github.com/4d-depot/HDI_Microsoft_Google_Notifications) - Monitor Google and Office 365 notifications with 4D NetKit
 * [HDI_REST_Server_quotas](https://github.com/4d-depot/HDI_REST_Server_quotas) - Learn the quota management mechanism in REST sessions
 * [HDI_Writing_Tools_Text_Widgets](https://github.com/4d-depot/HDI_Writing_Tools_Text_Widgets) - Access Apple Writing Tools in your Text Inputs and 4D Write Pro Areas
+* [Demo_21_R4_Defer_Command](https://github.com/4d-depot/Demo_21_R4_Defer_Command) - Use new defer command
+* [Demo_21R4_QuotaEntitySets](https://github.com/4d-depot/Demo_21R4_QuotaEntitySets) - Learn the quota management mechanism in REST sessions
+
 
 ## 4D 21 R3
 
@@ -49,6 +52,9 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
 * [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 * [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
+* [DEMO_21_R3_Liquid_Glass](https://github.com/4d-depot/DEMO_21_R3_Liquid_Glass) - Show the new visual capabilities with Liquid Glass on macOS
+* [Demo_21_R3_MethodClass](https://github.com/4d-depot/Demo_21_R3_MethodClass) - Use the 4D.Method class
+* [Demo_21_R2_R3_Qodly_in_4D](https://github.com/4d-depot/Demo_21_R2_R3_Qodly_in_4D) - Share your desktop session with web session
 
 ## 4D 21 R2
 
@@ -61,6 +67,8 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_Share_C-S_Web_Session](https://github.com/4d-depot/HDI_Share_C-S_Web_Session) - Share a remote session for web access
 * [PIQS_Localization](https://github.com/4d-depot/PIQS_Localization) - Handle the localization of your application in [4D Qodly Pro](https://developer.4d.com/qodly/)
+* [DEMO_21_LTS_Code_Evolution](https://github.com/4d-depot/DEMO_21_LTS_Code_Evolution) - The Power of Small Things in Modern 4D Development
+* [DEMO_21_LTS_Singleton](https://github.com/4d-depot/DEMO_21_LTS_Singleton) - A use case for using Singletons in 4D by managing a data cache
 
 ## 4D 20 R10
 
