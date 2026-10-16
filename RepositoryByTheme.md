@@ -52,11 +52,13 @@ There are several categories of Repository:
 
 [4D AIKit](https://developer.4d.com/docs/category/4d-aikit) is a built-in 4D component that enables interaction with third-party AI APIs.
 
+* [Demo_AI-Similarities](https://github.com/4d-depot/Demo_AI-Similarities) - Detect similar customers with vector embeddings and [4D AIKit](https://developer.4d.com/docs/aikit/overview)
 * [EA_INVOICES/AI chat](https://github.com/4d-depot/EA_Invoices/tree/AIChat) - Add AI-powered features to a 30-year-old 4D application (chart, report,..)  
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_AI_VectorWithChunk](https://github.com/4d-depot/HDI_4DWP_AI_VectorWithChunk) - Search a paragraph with chunks in [4D Write Pro](https://us.4d.com/4D-write-pro) documents using 4D AIKit component
 * [HDI_4DWP_AI_Classification](https://github.com/4d-depot/HDI_4DWP_IA_Classification/) - Categorize [4D Write Pro](https://us.4d.com/4D-write-pro) documents via AI with [4D AIKit](https://developer.4d.com/docs/aikit/overview) component
+* [DEMO_AI_Vector_ImageSearch](https://github.com/4d-depot/DEMO_AI_Vector_ImageSearch) - Make a semantic image search with 4D.Vector and 4D AIKit
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
 * [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
 * [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
@@ -88,7 +90,9 @@ There are several categories of Repository:
 With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend your existing 4D applications to interactive, responsive web interfaces and design modern Web Business applications powered by 4D Technology.
 
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [HDI_QODLY_APP_REST_API](https://github.com/4d-depot/HDI_QODLY_APP_REST_API) - Use the REST API of my Qodly app
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
+* [PIQS_States](https://github.com/4d-depot/PIQS_States) - Handle page states in [4D Qodly Pro](https://developer.4d.com/qodly/)
 * [Play In Qodly Studio: call an API](https://github.com/4d-depot/QodlyDemo_Weather) - How to call an API and return the results using a smart interface
 * [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
 * [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
@@ -212,6 +216,7 @@ Examples involving artificial intelligence (AI): demos and proof‑of‑concepts
 
 ### AI Chat
 
+* [4D-Demo-AI-Automation](https://github.com/4d-depot/4D-Demo-AI-Automation) - Automate an event management workflow with LLM reasoning, semantic search and tool calling
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
 * [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation)
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
@@ -222,9 +227,12 @@ Examples involving artificial intelligence (AI): demos and proof‑of‑concepts
 
 ### AI Embeddings
 
+* [Demo_AI-Similarities](https://github.com/4d-depot/Demo_AI-Similarities) - Detect similar customers with vector embeddings and [4D AIKit](https://developer.4d.com/docs/aikit/overview)
+* [DEMO_AI_Vector_ImageSearch](https://github.com/4d-depot/DEMO_AI_Vector_ImageSearch) - Make a semantic image search with 4D.Vector and 4D AIKit
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
 * [HDI_4D_Vectors](https://github.com/4d-depot/HDI_4D_Vectors) - Perform a similarity search with 4D Vector
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
+* [HDI_Vector_Indexation](https://github.com/4d-depot/HDI_Vector_Indexation) - Index 4D.Vector fields to speed up similarity searches
 
 ## Email
 
@@ -314,6 +322,7 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
 * [HDI_Data_Change_Tracking](https://github.com/4d-depot/HDI_Data_Change_Tracking) - Enable and use data change tracking
+* [HDI_ErrorHandlers](https://github.com/4d-depot/HDI_ErrorHandlers) - Catch errors everywhere
 * [HDI_formula_in_commands](https://github.com/4d-depot/HDI_formula_in_commands) - Define callback methods with formulas
 * [HDI_JSON_Validate](https://github.com/4d-depot/HDI_JSON_Validate/blob/main/readme.md) - Validate JSON data with a JSON schema that complies with the Draft 2020-12 standard
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
@@ -332,6 +341,7 @@ Advanced programming features for enhancing the development process in 4D projec
 ### File
 
 * [HDI_CompressFile](https://github.com/4d-depot/HDI_CompressFile) - Compress and uncompress files and folders
+* [HDI_ExtractPDFattachments](https://github.com/4d-depot/HDI_ExtractPDFattachments) - Extract attachments from a PDF/A3 file
 * [HDI_FileHandle](https://github.com/4d-depot/HDI_FileHandle) - Use file handles 
 
 ### Session
@@ -376,7 +386,9 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
+* [HDI_Shareable_ES_Enhancements](https://github.com/4d-depot/HDI_Shareable_ES_Enhancements) - Get started with shareable entity selections enhancements
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
+* [HDI_Vector_Indexation](https://github.com/4d-depot/HDI_Vector_Indexation) - Index 4D.Vector fields to speed up similarity searches
 
 ## Security
 
@@ -384,6 +396,7 @@ Resources for implementing security measures in 4D applications, focusing on dat
 
 * [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_Cryptokey_class](https://github.com/4d-depot/HDI_Cryptokey_class) - Sign and verify using CryptoKey class
+* [HDI_Encryption_reworked](https://github.com/4d-depot/HDI_Encryption_reworked) - Encrypt and decrypt a 4D data file
 * [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 
@@ -474,11 +487,13 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_MultipleWebServers](https://github.com/4d-depot/HDI_MultipleWebServers) - Multiple web servers in a single 4D instance
 * [HDI_Offscreen_WebArea](https://github.com/4d-depot/HDI_Offscreen_WebArea) - Use an offscreen web area
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
+* [HDI_QODLY_APP_REST_API](https://github.com/4d-depot/HDI_QODLY_APP_REST_API) - Use the REST API of my Qodly app
 * [HDI_REST_Server_quotas](https://github.com/4d-depot/HDI_REST_Server_quotas) - Learn the quota management mechanism in REST sessions
 * [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Session_Token](https://github.com/4d-depot/HDI_Session_Token) - Restore a web session with a token (OTP)
 * [HDI_Share_C-S_Web_Session](https://github.com/4d-depot/HDI_Share_C-S_Web_Session) - Share a remote session for web access
+* [HDI_Tableau_And_4D](https://github.com/4d-depot/HDI_Tableau_And_4D) - Connect Tableau with 4D
 * [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
 * [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area

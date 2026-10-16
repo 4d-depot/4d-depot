@@ -6,6 +6,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 
 ## Table of Contents
 
+- [4D 21 R5](#4d-21-r5)
 - [4D 21 R4](#4d-21-r4)
 - [4D 21 R3](#4d-21-r3)
 - [4D 21 R2](#4d-21-r2)
@@ -35,6 +36,10 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
 
+## 4D 21 R5
+
+* [HDI_Vector_Indexation](https://github.com/4d-depot/HDI_Vector_Indexation) - Index 4D.Vector fields to speed up similarity searches
+
 ## 4D 21 R4
 
 * [HDI_Microsoft_Google_Notifications](https://github.com/4d-depot/HDI_Microsoft_Google_Notifications) - Monitor Google and Office 365 notifications with 4D NetKit
@@ -55,6 +60,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [DEMO_21_R3_Liquid_Glass](https://github.com/4d-depot/DEMO_21_R3_Liquid_Glass) - Show the new visual capabilities with Liquid Glass on macOS
 * [Demo_21_R3_MethodClass](https://github.com/4d-depot/Demo_21_R3_MethodClass) - Use the 4D.Method class
 * [Demo_21_R2_R3_Qodly_in_4D](https://github.com/4d-depot/Demo_21_R2_R3_Qodly_in_4D) - Share your desktop session with web session
+* [4D-Demo-AI-Automation](https://github.com/4d-depot/4D-Demo-AI-Automation) - Automate an event management workflow with LLM reasoning, semantic search and tool calling
 
 ## 4D 21 R2
 
@@ -69,6 +75,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [PIQS_Localization](https://github.com/4d-depot/PIQS_Localization) - Handle the localization of your application in [4D Qodly Pro](https://developer.4d.com/qodly/)
 * [DEMO_21_LTS_Code_Evolution](https://github.com/4d-depot/DEMO_21_LTS_Code_Evolution) - The Power of Small Things in Modern 4D Development
 * [DEMO_21_LTS_Singleton](https://github.com/4d-depot/DEMO_21_LTS_Singleton) - A use case for using Singletons in 4D by managing a data cache
+* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation)
 
 ## 4D 20 R10
 
@@ -84,6 +91,8 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
 * [HDI_UDPSocket](https://github.com/4d-depot/HDI_UDPSocket) - Use the UDPSocket and UDPEvent classes to communicate through the UDP protocol
 * [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
+* [DEMO_AI_Vector_ImageSearch](https://github.com/4d-depot/DEMO_AI_Vector_ImageSearch) - Make a semantic image search with 4D.Vector and 4D AIKit
+* [Demo_AI-Similarities](https://github.com/4d-depot/Demo_AI-Similarities) - Detect similar customers with vector embeddings and [4D AIKit](https://developer.4d.com/docs/aikit/overview)
 
 ## 4D 20 R9
 
@@ -113,12 +122,14 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D 20 R6
 
 * [HDI_4DWP_TablesWithEmptyDataSources](https://github.com/4d-depot/HDI_4DWP_TablesWithEmptyDataSources) - Manage [4D Write Pro](https://us.4d.com/4D-write-pro) tables with empty datasources
+* [HDI_ExtractPDFattachments](https://github.com/4d-depot/HDI_ExtractPDFattachments) - Extract attachments from a PDF/A3 file
 * [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) with support for agents
 * [HDI_CleanEntitySelection](https://github.com/4d-depot/HDI_CleanEntitySelection) - Clean deleted entities in entity selection with [ORDA](https://us.4d.com/orda)
 * [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Get started with inspecting the privileges in the session
 * [HDI_Netkit_BrowserAutoOpen_false ](https://github.com/4d-depot/HDI_Netkit_BrowserAutoOpen_false) - Manage manually the OAuth 2.0 authentication interface with [4D NetKit](https://github.com/4d/4D-NetKit)
 * [HDI_SessionStorageByID](https://github.com/4d-depot/HDI_SessionStorageByID) - Get session storage for a specific session defined by its ID
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environmenT
+* [PIQS_States](https://github.com/4d-depot/PIQS_States) - Handle page states in [4D Qodly Pro](https://developer.4d.com/qodly/)
 
 ## 4D 20 R5
 
@@ -128,6 +139,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_ManageAnchoredPictures](https://github.com/4d-depot/HDI_4DWP_ManageAnchoredPictures) - Manage text wrapping around pictures and text boxes in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_PageSize](https://github.com/4d-depot/HDI_4DWP_PageSize) - Uses "wk page size" new attribute in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_Component_Management](https://github.com/4d-depot/HDI_Component_Management) - Optimize your component management
+* [HDI_QODLY_APP_REST_API](https://github.com/4d-depot/HDI_QODLY_APP_REST_API) - Use the REST API of my Qodly app
 * [HDI_RestrictData](https://github.com/4d-depot/HDI_RestrictData) - Get started with filtering data
 * [HDI_WindowTypeWithoutTitleBar](https://github.com/4d-depot/HDI_WindowTypeWithoutTitleBar) - Customize the application appearance with the new form types and commands
 * [PIQS_QuitSession](https://github.com/4d-depot/PIQS_QuitSession) - Handle the authentication and quit the session in Qodly studio
@@ -160,6 +172,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [Play In Qodly Studio: matrix and datatable](https://github.com/4d-depot/QodlyDemo_Matrix_Datatable) - How to build a matrix and a datatable 
 * [Play In Qodly Studio: navigation](https://github.com/4d-depot/QodlyDemo_Navigation) - How to navigate between web forms
 * [Play In Qodly Studio: entity selection and collection](https://github.com/4d-depot/PIQS_EntitySelectionAndCollection) - How to use Entity Selection and Collection
+* [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
 
 ## 4D v20 LTS
 
@@ -174,6 +187,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D v19 R8
 
 * [HDI_4DVP_tableStyle](https://github.com/4d-depot/HDI_4DVP_tableStyle) - Manage manage themes in a [4D View Pro](https://us.4d.com/4d-view-pro) table
+* [HDI_ErrorHandlers](https://github.com/4d-depot/HDI_ErrorHandlers) - Catch errors everywhere
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
@@ -210,6 +224,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
 * [HDI_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/HDI_ORDA_ContextAndRequestsOptimization) - Get started with REST requests control
 * [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
+* [Demo_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/Demo_ORDA_ContextAndRequestsOptimization) - Optimization and cache demo for [ORDA](https://us.4d.com/orda) REST requests
 
 ## 4D v19 R4
 
@@ -228,6 +243,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
 * [HDI_ORDA_ComputedAttributes](https://github.com/4d-depot/HDI_ORDA_ComputedAttributes) - Create and use computed attributes within [ORDA](https://us.4d.com/orda) dataclasses
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
+* [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo about computed attributes with [ORDA](https://us.4d.com/orda)
 
 ## 4D v19 R2
 
@@ -241,12 +257,14 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_4DWP_ImportDocx](https://github.com/4d-depot/HDI_4DWP_ImportDocx) - Import my .docx files into a [4D Write Pro](https://us.4d.com/4D-write-pro) document
 * [HDI_BLOB_Encryption](https://github.com/4d-depot/HDI_BLOB_Encryption) - Encrypt and decrypt BLOBs with the same algorithm as 4D data
 * [HDI_CompileProject](https://github.com/4d-depot/HDI_CompileProject) - Compile a project by programming
+* [HDI_Encryption_reworked](https://github.com/4d-depot/HDI_Encryption_reworked) - Encrypt and decrypt a 4D data file
 * [HDI_EntitySelectionInListbox](https://github.com/4d-depot/HDI_EntitySelectionInListbox) - Display an entity selection in a listbox and use a meta expression.
 * [HDI_IMAPMailboxes](https://github.com/4d-depot/HDI_IMAPMailboxes) - Manage mailboxes via IMAP
 * [HDI_ListboxCollection](https://github.com/4d-depot/HDI_ListboxCollection) - Display a collection in a listbox
 * [HDI_ListBoxCollection_Advanced](https://github.com/4d-depot/HDI_ListBoxCollection_Advanced) - Display a multilevel collection in different list boxes
 * [HDI_LISTBOXES_Demo_V2](https://github.com/4d-depot/HDI_LISTBOXES_Demo_V2) - Use any kind of list box in 4D interface
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
+* [HDI_4DWP_TravelAgencyBrochure](https://github.com/4d-depot/HDI_4DWP_TravelAgencyBrochure) - Use [4D Write Pro](https://us.4d.com/4D-write-pro) features to generate a document
 
 ## 4D v18 R6
 
@@ -268,6 +286,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_LISTBOXES_BeforeKeystroke](https://github.com/4d-depot/HDI_LISTBOXES_BeforeKeystroke) - Manage "on Before Keystroke" event in listboxes
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords 
 * [HDI_Shareable_EntitySelection](https://github.com/4d-depot/HDI_Shareable_EntitySelection) - Shareable entity selections
+* [HDI_Shareable_ES_Enhancements](https://github.com/4d-depot/HDI_Shareable_ES_Enhancements) - Get started with shareable entity selections enhancements
 
 ## 4D v18 R4
 
@@ -280,6 +299,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_LISTBOXES_Properties_v2](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v2) - Manage listbox properties via code
 * [HDI_ORDA_Classes](https://github.com/4d-depot/HDI_ORDA_Classes) - Get started with [ORDA](https://us.4d.com/orda) Data Model Classes
 * [HDI_ORDA_Classes_REST_Server](https://github.com/4d-depot/HDI_ORDA_Classes_REST_Server) - Send REST requests to [ORDA](https://us.4d.com/orda) data model classes
+* [HDI_Tableau_And_4D](https://github.com/4d-depot/HDI_Tableau_And_4D) - Connect Tableau with 4D
 
 ## 4D v18 R3
 
