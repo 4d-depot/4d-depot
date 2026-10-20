@@ -26,8 +26,9 @@ There are several categories of Repository:
   - [Table](#table)
 - [Administration](#administration)
 - [Artificial Intelligence](#artificial-intelligence)
-  - [AI Chat](#ai-chat)
+  - [LLM & Automation](#llm--automation)
   - [AI Embeddings](#ai-embeddings)
+- [Classes & Singletons](#classes--singletons)
 - [Email](#email)
   - [IMAP](#imap)
   - [Gmail API](#gmail-api)
@@ -44,7 +45,6 @@ There are several categories of Repository:
   - [Form Objects](#form-objects)
   - [Listboxes](#listboxes)
   - [Web Area](#web-area)
-- [User class](#user-class)
 - [Web](#web)
 
 
@@ -70,7 +70,7 @@ There are several categories of Repository:
 [4D NetKit](https://github.com/4d/4D-NetKit/) is a built-in 4D component that allows you to interact with third-party web services and their APIs, such as Microsoft Graph, Google REST API.
 
 * [HDI_Calendar_Event_Management](https://github.com/4d-depot/HDI_Calendar_Event_Management) - Create / update calendar events from Google Calendar or Microsoft 365 with 4D NetKit.
-* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
+* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage OAuth 2.0 connections
 * [HDI_Get_Calendar](https://github.com/4d-depot/HDI_Get_Calendar) - Get calendar events from Google Calendar or Microsoft 365 with NetKit
 * [HDI_Google_get_mails](https://github.com/4d-depot/HDI_Google_get_mails) - Receive emails with the Gmail API
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
@@ -90,6 +90,7 @@ There are several categories of Repository:
 With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend your existing 4D applications to interactive, responsive web interfaces and design modern Web Business applications powered by 4D Technology.
 
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
+* [Demo_21_R2_R3_Qodly_in_4D](https://github.com/4d-depot/Demo_21_R2_R3_Qodly_in_4D) - Share your desktop session with web session
 * [HDI_QODLY_APP_REST_API](https://github.com/4d-depot/HDI_QODLY_APP_REST_API) - Use the REST API of my Qodly app
 * [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
 * [PIQS_States](https://github.com/4d-depot/PIQS_States) - Handle page states in [4D Qodly Pro](https://developer.4d.com/qodly/)
@@ -116,7 +117,7 @@ With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend 
 * [HDI_4DVP_Export_PDF](https://github.com/4d-depot/HDI_4DVP_Export_PDF) - Export PDFs or print 4D View Pro documents
 * [HDI_4DVP_Export_SVG](https://github.com/4d-depot/HDI_4DVP_Export_SVG) - Convert 4D View Pro documents to SVG pictures
 * [HDI_4DVP_Find](https://github.com/4d-depot/HDI_4DVP_Find) - Find a value in a 4D View Pro document
-* [HDI_4DVP_FreezePanes Private](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in 4D View Pro
+* [HDI_4DVP_FreezePanes](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in 4D View Pro
 * [HDI_4DVP_Suspend_Resume](https://github.com/4d-depot/HDI_4DVP_Suspend_Resume) - Stop or resume calculations in 4D View Pro
 * [HDI_4DVP_Object_and_Collection_in_Custom_Functions](https://github.com/4d-depot/HDI_4DVP_Object_and_Collection_in_Custom_Functions) - Use custom functions with collection or object parameters in 4D View Pro documents 
 * [HDI_4DVP_Offscreen](https://github.com/4d-depot/HDI_4DVP_Offscreen) - Use a 4D View Pro offscreen area to export documents
@@ -130,7 +131,7 @@ With [4D Qodly Pro](https://developer.4d.com/qodly/), you can seamlessly extend 
 
 [4D Write Pro](https://us.4d.com/4D-write-pro) is a powerful template-based document generator system entirely programmable and fully integrated into 4D.
 
-* [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
+* [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer) - Build a lightweight, component-ready email composer using 4D Write Pro, subforms, and SMTP Transport
 * [HDI_4DWP_AutoFitHeaders](https://github.com/4d-depot/HDI_4DWP_AutoFitHeaders) - Set the height of headers and footers to fixed values
 * [HDI_4DWP_AutoIndentBullets](https://github.com/4d-depot/HDI_4DWP_AutoIndentBullets) - Use bullet and numbered lists in 4D Write Pro
 * [HDI_4DWP_FindAndReplace](https://github.com/4d-depot/HDI_4DWP_FindAndReplace) - Find strings and replace them
@@ -214,11 +215,10 @@ Resources and tools for managing 4D projects, including project compilation, com
 
 Examples involving artificial intelligence (AI): demos and proof‑of‑concepts using various APIs or techniques, with or without the 4D AIKit component.
 
-### AI Chat
+### LLM & Automation
 
 * [4D-Demo-AI-Automation](https://github.com/4d-depot/4D-Demo-AI-Automation) - Automate an event management workflow with LLM reasoning, semantic search and tool calling
 * [4D-Qodly-OpenAI](https://github.com/4d-depot/4D-Qodly-OpenAI) - Proof of concept of generating test data with OpenAI API
-* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation)
 * [DEMO_AIKIT_IMAGETAG](https://github.com/4d-depot/DEMO_AIKIT_IMAGETAG) - Automate Image Tagging and Searching
 * [DEMO_AIKIT_INVOICE_RECOGNITION](https://github.com/4d-depot/DEMO_AIKIT_INVOICE_RECOGNITION) - Effortless expense reports, powered by AI 
 * [DEMO_AIKIT_MODERATION](https://github.com/4d-depot/DEMO_AIKIT_MODERATION) - Real-Time AI Moderation and Flagging
@@ -227,6 +227,7 @@ Examples involving artificial intelligence (AI): demos and proof‑of‑concepts
 
 ### AI Embeddings
 
+* [4D Demo AI People & Skills](https://github.com/4d-depot/4D-Demo-AI-People-Skills) - Learn how to build a RAG (retrieval augmented generation)
 * [Demo_AI-Similarities](https://github.com/4d-depot/Demo_AI-Similarities) - Detect similar customers with vector embeddings and [4D AIKit](https://developer.4d.com/docs/aikit/overview)
 * [DEMO_AI_Vector_ImageSearch](https://github.com/4d-depot/DEMO_AI_Vector_ImageSearch) - Make a semantic image search with 4D.Vector and 4D AIKit
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
@@ -234,12 +235,28 @@ Examples involving artificial intelligence (AI): demos and proof‑of‑concepts
 * [HDI_4DWP_AI_Vector](https://github.com/4d-depot/HDI_4DWP_AI_Vector) - Make a semantic search with [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_Vector_Indexation](https://github.com/4d-depot/HDI_Vector_Indexation) - Index 4D.Vector fields to speed up similarity searches
 
+## Classes & Singletons
+
+The 4D language supports the concept of [classes](https://developer.4d.com/docs/Concepts/classes). In a programming language, using a class allows you to define an object behaviour with associated properties and functions.
+
+* [DEMO_21_LTS_Singleton](https://github.com/4d-depot/DEMO_21_LTS_Singleton) - A use case for using Singletons in 4D by managing a data cache
+* [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
+* [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
+* [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
+* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes
+* [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
+* [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
+* [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
+* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
+* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
+* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
+
 ## Email
 
 Creating, sending, or receiving emails in 4D is available.
 
-* [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer)
-* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
+* [EA_Lightweight_Email_Composer](https://github.com/4d-depot/EA_Lightweight_Email_Composer) - Build a lightweight, component-ready email composer using 4D Write Pro, subforms, and SMTP Transport
+* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage OAuth 2.0 connections
 * [HDI_OAuth2_mail](https://github.com/4d-depot/HDI_OAuth2_mail) - Connect to an email server with OAuth 2.0 
 * [HDI_OAuth2_Microsoft_mail](https://github.com/4d-depot/HDI_OAuth2_Microsoft_mail) - Get an OAuth 2.0 access token from the Microsoft identity platform
 
@@ -318,6 +335,10 @@ Complete, runnable 4D applications demonstrating common business scenarios and U
 
 Advanced programming features for enhancing the development process in 4D projects.
 
+* [DEMO_21_LTS_Code_Evolution](https://github.com/4d-depot/DEMO_21_LTS_Code_Evolution) - The Power of Small Things in Modern 4D Development
+* [DEMO_21_LTS_Singleton](https://github.com/4d-depot/DEMO_21_LTS_Singleton) - A use case for using Singletons in 4D by managing a data cache
+* [Demo_21_R3_MethodClass](https://github.com/4d-depot/Demo_21_R3_MethodClass) - Use the 4D.Method class
+* [Demo_21_R4_Defer_Command](https://github.com/4d-depot/Demo_21_R4_Defer_Command) - Use new defer command
 * [HDI_4D_Method](https://github.com/4d-depot/HDI_4D_Method) - Execute Code from Text with 4D.Method
 * [HDI_CompareStrings](https://github.com/4d-depot/HDI_CompareStrings) - Compare strings (new) and Position command improvement
 * [HDI_CopyParameters](https://github.com/4d-depot/HDI_CopyParameters) - Use the Copy parameters command
@@ -346,6 +367,8 @@ Advanced programming features for enhancing the development process in 4D projec
 
 ### Session
 
+* [Demo_21_R2_R3_Qodly_in_4D](https://github.com/4d-depot/Demo_21_R2_R3_Qodly_in_4D) - Share your desktop session with web session
+* [HDI_4DRemoteSession](https://github.com/4d-depot/HDI_4DRemoteSession) - Use the 4D remote session object with Client/Server application
 * [HDI_ImproveProcessAndSessionCommands](https://github.com/4d-depot/HDI_ImproveProcessAndSessionCommands) - Use the new Process properties and Session properties command, and Filter the processes with Process activity command
 * [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
 * [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
@@ -365,6 +388,7 @@ Advanced programming features for enhancing the development process in 4D projec
 
 [ORDA](https://us.4d.com/orda), which stands for Object Relational Data Access, is an innovative way of accessing data that combines the advantages of object-oriented programming with those of relational databases.
 
+* [Demo_21R4_QuotaEntitySets](https://github.com/4d-depot/Demo_21R4_QuotaEntitySets) - Learn the quota management mechanism in REST sessions
 * [DEMO_ORDA_ComputedAttributes](https://github.com/4d-depot/DEMO_ORDA_ComputedAttributes) - Demo with computed attributes
 * [Demo_ORDA_ContextAndRequestsOptimization](https://github.com/4d-depot/Demo_ORDA_ContextAndRequestsOptimization) - Optimization and cache demo
 * [HDI_4D_Query_Vectors](https://github.com/4d-depot/HDI_4D_Query_Vectors) - Perform a query on 4D Vector fields
@@ -381,6 +405,7 @@ Advanced programming features for enhancing the development process in 4D projec
 * [HDI_ORDA_Events_Save_Drop](https://github.com/4d-depot/HDI_ORDA_Events_Save_Drop) - ORDA events for Save and Drop
 * [HDI_ORDA_Events_touched](https://github.com/4d-depot/HDI_ORDA_Events_touched) - Start with the ORDA touched event
 * [HDI_ORDA_FunctionsScope](https://github.com/4d-depot/HDI_ORDA_FunctionsScope) - Get started with function keywords
+* [HDI_Path_For_Picture](https://github.com/4d-depot/HDI_Path_For_Picture) - Assigning a path to a picture or a blob field in [ORDA](https://us.4d.com/orda)
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
 * [HDI_Remote_Datastore](https://github.com/4d-depot/HDI_Remote_Datastore) - Get started with an ORDA remote datastore
 * [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
@@ -399,6 +424,7 @@ Resources for implementing security measures in 4D applications, focusing on dat
 * [HDI_Encryption_reworked](https://github.com/4d-depot/HDI_Encryption_reworked) - Encrypt and decrypt a 4D data file
 * [HDI_GetPrivileges](https://github.com/4d-depot/HDI_GetPrivileges) - Inspect Session Privileges for Easy Debugging 
 * [HDI_Permissions](https://github.com/4d-depot/HDI_Permissions) - Get started with setting up permissions to access data
+* [HDI_WebServer_RateLimitingQuotas](https://github.com/4d-depot/HDI_WebServer_RateLimitingQuotas) - Protect the web server with rate limiting quotas
 
 ## Tools
 
@@ -417,6 +443,7 @@ User interface and forms in 4D: building forms, working with form objects, listb
 
 Features for creating and managing [4D forms](https://developer.4d.com/docs/FormEditor/forms) in 4D, enhancing user input and interaction capabilities.
 
+* [DEMO_21_R5_FluentUI](https://github.com/4d-depot/DEMO_21_R5_FluentUI) - Demo project showcases the new Fluent UI visual capabilities on Windows
 * [FAT_PrintForm_FormLoad](https://github.com/4d-depot/FAT_PrintForm_FormLoad/tree/main) - Pass form data parameter with PRINT FORM and FORM LOAD
 * [HDI_FormMacro](https://github.com/4d-depot/HDI_FormMacro) - Practical examples on how to use macros
 * [HDI_SetDataSourceFormula](https://github.com/4d-depot/HDI_SetDataSourceFormula) - Use the new commands: OBJECT SET DATA SOURCE FORMULA and OBJECT Get data source formula
@@ -430,6 +457,7 @@ Specific features for handling [4D form objects](https://developer.4d.com/docs/F
 
 * [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
 * [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
+* [HDI_FormObj_VericalAlignAndPadding](https://github.com/4d-depot/HDI_FormObj_VericalAlignAndPadding) - Adjust Vertical Alignment and Padding in my Text Area and Input Objects
 * [HDI_NewDateTimeFormats](https://github.com/4d-depot/HDI_NewDateTimeFormats) - Use new format patterns for dates and times
 * [HDI_RoundedCorner](https://github.com/4d-depot/HDI_RoundedCorner) - Set rounded corner to static text and input control
 * [HDI_UseCollectionsInForms](https://github.com/4d-depot/HDI_UseCollectionsInForms) - Use collections in form objects
@@ -449,7 +477,7 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_LISTBOXES_Properties_v3](https://github.com/4d-depot/HDI_LISTBOXES_Properties_v3) - Manage listbox settings with "LISTBOX SET PROPERTY" and "LISTBOX Get property" commands
 * [HDI_ListBoxSelectRows](https://github.com/4d-depot/HDI_ListBoxSelectRows) - Get started with the new LISTBOX SELECT ROWS command
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
-* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes 
+* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Setup automatic row heights for entity selection and collection list boxes 
 
 ### Web Area
 
@@ -461,25 +489,11 @@ Functionalities for managing [listboxes](https://developer.4d.com/docs/FormObjec
 * [HDI_RestrictAccessByDefault](https://github.com/4d-depot/HDI_RestrictAccessByDefault) - ORDA Permissions - Restrict access by default 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
 
-## User class
-
-The 4D language supports the concept of [classes](https://developer.4d.com/docs/Concepts/classes). In a programming language, using a class allows you to define an object behaviour with associated properties and functions.
-
-* [HDI_Class](https://github.com/4d-depot/HDI_Class) -  Create a user class in 4D
-* [HDI_ClassAndInheritance](https://github.com/4d-depot/HDI_ClassAndInheritance) - Use class inheritance
-* [HDI_CS_ComputedProperties](https://github.com/4d-depot/HDI_CS_ComputedProperties) - Create and use computed properties within classes
-* [HDI_ORDA_Aliases](https://github.com/4d-depot/HDI_ORDA_Aliases) - Create and use aliases within classes
-* [HDI_OutGoingMessageClass](https://github.com/4d-depot/HDI_OutGoingMessageClass) - Use the new OutgoingMessage class
-* [HDI_Session_4DClient](https://github.com/4d-depot/HDI_Session_4DClient) - How to handle a local session on a 4D client
-* [HDI_ServerKeyword_Singletons](https://github.com/4d-depot/HDI_ServerKeyword_Singletons) - Run shared and session singleton functions on the server
-* [HDI_Singletons](https://github.com/4d-depot/HDI_Singletons) - Use singletons in 4D and Qodly Studio environment
-* [HDI_Singletons_with_sessions](https://github.com/4d-depot/HDI_Singletons_with_sessions) - Use Session Singletons inside 4D and Qodly
-* [HDI_typed_object_field](https://github.com/4d-depot/HDI_typed_object_field) - Use an object field that is typed with a class
-
 ## Web
 
 4D in local mode, 4D in remote mode, and 4D Server include a [web server engine](https://developer.4d.com/docs/WebServer/overview) that enables you to design and publish powerful web applications that can make the most of your 4D databases.
 
+* [Demo_21R4_QuotaEntitySets](https://github.com/4d-depot/Demo_21R4_QuotaEntitySets) - Learn the quota management mechanism in REST sessions
 * [HDI_Context_Web_Area](https://github.com/4d-depot/HDI_Context_Web_Area) - Use class in embedded web area with $4d
 * [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) - Weather forecast through a REST service called with the new HTTP classes
 * [HDI_HTTP_Classes_with_agent](https://github.com/4d-depot/HDI_HTTP_Classes_with_agent) - Update of the HDI_HTTP_Classes with support for agents
@@ -497,6 +511,7 @@ The 4D language supports the concept of [classes](https://developer.4d.com/docs/
 * [HDI_TCPConnection](https://github.com/4d-depot/HDI_TCPConnection/) - Use TCPConnection to connect to a server
 * [HDI_TCPConnection-TCPListener](https://github.com/4d-depot/HDI_TCPConnection-TCPListener) - Use TCPConnection and TCPListeners 
 * [HDI_Webcam](https://github.com/4d-depot/HDI_Webcam) - Webcam support in 4D Web Area
+* [HDI_WebServer_RateLimitingQuotas](https://github.com/4d-depot/HDI_WebServer_RateLimitingQuotas) - Protect the web server with rate limiting quotas
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server 
 * [HDI_WebSocket_Server](https://github.com/4d-depot/HDI_WebSocket_Server) - Manage a websocket server
 

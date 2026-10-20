@@ -21,6 +21,11 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v20 R3](#4d-v20-r3)
 - [4D v20 R2](#4d-v20-r2)
 - [4D v20 LTS](#4d-v20-lts)
+
+<details>
+
+<summary>Older versions</summary>
+
 - [4D v19 R8](#4d-v19-r8)
 - [4D v19 R7](#4d-v19-r7)
 - [4D v19 R6](#4d-v19-r6)
@@ -36,9 +41,14 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 - [4D v18 R2](#4d-v18-r2)
 - [4D v18 LTS](#4d-v18-lts)
 
+</details>
+
 ## 4D 21 R5
 
+* [HDI_FormObj_VericalAlignAndPadding](https://github.com/4d-depot/HDI_FormObj_VericalAlignAndPadding) - Adjust Vertical Alignment and Padding in my Text Area and Input Objects
 * [HDI_Vector_Indexation](https://github.com/4d-depot/HDI_Vector_Indexation) - Index 4D.Vector fields to speed up similarity searches
+* [HDI_WebServer_RateLimitingQuotas](https://github.com/4d-depot/HDI_WebServer_RateLimitingQuotas) - Protect the web server with rate limiting quotas 
+* [DEMO_21_R5_FluentUI](https://github.com/4d-depot/DEMO_21_R5_FluentUI) - Demo project showcases the new Fluent UI visual capabilities on Windows
 
 ## 4D 21 R4
 
@@ -163,7 +173,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D v20 R2
 
 * [HDI_4DWP_CellsMerge](https://github.com/4d-depot/HDI_4DWP_CellsMerge) - Merge cells in [4D Write Pro](https://us.4d.com/4D-write-pro) documents
-* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage a OAuth 2.0 connections
+* [HDI_ConnectGithubWithOauth2](https://github.com/4d-depot/HDI_ConnectGithubWithOauth2) - Manage OAuth 2.0 connections
 * [HDI_google_SendMail](https://github.com/4d-depot/HDI_google_SendMail) - Send an email from a Google account
 * [HDI_THROW](https://github.com/4d-depot/HDI_THROW) - Get started with throwing an error in 4D code
 * [HDI_WebSocket](https://github.com/4d-depot/HDI_WebSocket) - Manage connections to a websocket server
@@ -192,7 +202,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_Office365_get_mails](https://github.com/4d-depot/HDI_Office365_get_mails) - Get mails through the Microsoft GRAPH API
 * [HDI_Office365_manage_mails](https://github.com/4d-depot/HDI_Office365_manage_mails) - Manage mails through the Microsoft GRAPH API
 * [HDI_4DWP_UseTextBoxes](https://github.com/4d-depot/HDI_4DWP_UseTextBoxes) - Insert text boxes inside [4D Write Pro](https://us.4d.com/4D-write-pro) documents
-* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Use drag and drop between and inside listboxes
+* [HDI_LISTBOX_VariableRowHeight](https://github.com/4d-depot/HDI_LISTBOX_VariableRowHeight) - Setup automatic row heights for entity selection and collection list boxes
 
 ## 4D v19 R7
 
@@ -315,7 +325,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 ## 4D v18 R2
 
 * [HDI_4DVP_ColumnRowManagement](https://github.com/4d-depot/HDI_4DVP_ColumnRowManagement) - Manage columns and rows in [4D View Pro](https://us.4d.com/4d-view-pro)
-* [HDI_4DVP_FreezePanes Private](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in [4D View Pro](https://us.4d.com/4d-view-pro)
+* [HDI_4DVP_FreezePanes](https://github.com/4d-depot/HDI_4DVP_FreezePanes) - Freeze columns and rows in [4D View Pro](https://us.4d.com/4d-view-pro)
 * [HDI_4DWP_DeletePictures](https://github.com/4d-depot/HDI_4DWP_DeletePictures) - Remove pictures from my [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_4DWP_GetSetFormulas](https://github.com/4d-depot/HDI_4DWP_GetSetFormulas) - Work with formulas in my [4D Write Pro](https://us.4d.com/4D-write-pro) documents
 * [HDI_Listbox_Events](https://github.com/4d-depot/HDI_Listbox_Events) - Get started with list box events
