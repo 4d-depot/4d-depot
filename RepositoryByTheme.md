@@ -455,6 +455,7 @@ Features for creating and managing [4D forms](https://developer.4d.com/docs/Form
 
 Specific features for handling [4D form objects](https://developer.4d.com/docs/FormObjects/formObjectsOverview) within forms, including advanced controls and methods.
 
+* [DEMO_21_R5_FormObjects](https://github.com/4d-depot/DEMO_21_R5_FormObjects) - Demo project showcases the new border and background properties of form objects
 * [HDI_4D_SubformCommunication](https://github.com/4d-depot/HDI_4D_SubformCommunication) - Improve communication between forms and subforms
 * [HDI_Buttons](https://github.com/4d-depot/HDI_Buttons) - Set the horizontal text alignment and image hugs title for buttons, checkboxes and radio buttons
 * [HDI_FormObj_VericalAlignAndPadding](https://github.com/4d-depot/HDI_FormObj_VericalAlignAndPadding) - Adjust Vertical Alignment and Padding in my Text Area and Input Objects

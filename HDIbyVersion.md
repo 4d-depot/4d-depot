@@ -49,6 +49,7 @@ How Do I (HDI) examples explain and show new functionalities added in [4D](https
 * [HDI_Vector_Indexation](https://github.com/4d-depot/HDI_Vector_Indexation) - Index 4D.Vector fields to speed up similarity searches
 * [HDI_WebServer_RateLimitingQuotas](https://github.com/4d-depot/HDI_WebServer_RateLimitingQuotas) - Protect the web server with rate limiting quotas 
 * [DEMO_21_R5_FluentUI](https://github.com/4d-depot/DEMO_21_R5_FluentUI) - Demo project showcases the new Fluent UI visual capabilities on Windows
+* [DEMO_21_R5_FormObjects](https://github.com/4d-depot/DEMO_21_R5_FormObjects) - Demo project showcases the new border and background properties of form objects
 
 ## 4D 21 R4
 
